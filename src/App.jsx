@@ -710,6 +710,10 @@ function App() {
                 <div className="legend-color-box" style={{background: '#29d96c'}}></div>
                 <div>Got it!</div>
               </div>
+              
+              <div style={{ marginTop: '2rem', fontSize: '0.75rem', color: '#888', borderTop: '1px solid #333', paddingTop: '1rem', lineHeight: '1.4' }}>
+                <strong>Disclaimer:</strong> Guess Gaana is a fan-made game. All music and audio is streamed directly from YouTube via their official API and remains the property of their respective copyright holders. We do not host or own any of the songs.
+              </div>
             </div>
           </div>
         </div>
