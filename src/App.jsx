@@ -6,6 +6,7 @@ import dbBollywood from './db_bollywood.json';
 import dbSpotify from './db_spotify.json';
 import RainEffect from './RainEffect';
 import Confetti from 'react-confetti';
+import Fuse from 'fuse.js';
 
 const STAGES = [0.1, 0.5, 2, 8, 15]; // 5 stages for 5 guess boxes
 const MAX_GUESSES = 5;
@@ -306,13 +307,12 @@ function App() {
   }, [isPlaying, allowedDuration, audioOffset, isGameOver]);
 
 
+  const fuse = useMemo(() => new Fuse(songs, { keys: ['name', 'artist'], threshold: 0.4 }), [songs]);
+
   const filteredSongs = useMemo(() => {
     if (!searchInput) return [];
-    const query = searchInput.toLowerCase();
-    return songs
-      .filter(s => s.name.toLowerCase().includes(query) || s.artist.toLowerCase().includes(query))
-      .slice(0, 50);
-  }, [searchInput, songs]);
+    return fuse.search(searchInput).slice(0, 50).map(res => res.item);
+  }, [searchInput, fuse]);
 
   const handleGuess = (songName) => {
     const guessedSong = songs.find(s => s.name.toLowerCase() === songName.toLowerCase());
