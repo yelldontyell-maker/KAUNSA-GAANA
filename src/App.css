@@ -144,10 +144,20 @@
   align-items: center;
   width: 100%;
   max-width: 600px;
-  flex: 1;
-  margin-bottom: 2rem;
+  margin-top: auto;
+  margin-bottom: auto;
   opacity: 0;
   animation: slideUpEnter 0.8s cubic-bezier(0.2, 0.8, 0.2, 1) forwards;
+  
+  /* Glassmorphism */
+  background: rgba(255, 255, 255, 0.03);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 24px;
+  padding: 2rem 1.5rem;
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
+  
   animation-delay: 0.2s;
 }
 
@@ -215,6 +225,12 @@
   background: var(--primary-color);
   color: black;
   border-color: var(--primary-color);
+}
+
+.guess-box.partial {
+  background: #ffc107;
+  color: black;
+  border-color: #ffc107;
 }
 
 .guess-box.incorrect {
@@ -301,6 +317,7 @@
 
 /* Play Button */
 .play-wrapper {
+  position: relative;
   margin-bottom: 2rem;
   display: flex;
   justify-content: center;
@@ -568,7 +585,7 @@
   border-radius: 12px;
   max-height: 250px;
   overflow-y: auto;
-  z-index: 10;
+  z-index: 150;
   backdrop-filter: blur(10px);
 }
 
@@ -893,8 +910,8 @@ input[type=range]::-webkit-slider-runnable-track {
   }
   
   .game-body {
-    max-width: 100%;
-    padding: 0 0.5rem;
+    max-width: 95%;
+    padding: 1.5rem 1rem;
   }
   
   .genre-toggle-btn {
@@ -968,3 +985,61 @@ input[type=range]::-webkit-slider-runnable-track {
     height: 25px;
   }
 }
+
+/* Gamification CSS */
+.streak-counter {
+  position: absolute;
+  top: 50%;
+  left: calc(50% + 60px);
+  transform: translateY(-50%);
+  font-family: 'Inter', sans-serif;
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #fff;
+  background: rgba(0, 0, 0, 0.7);
+  padding: 4px 12px;
+  border-radius: 12px;
+  border: 1.5px solid var(--primary-color);
+  box-shadow: 0 0 10px rgba(var(--primary-color-rgb), 0.5);
+  z-index: 100;
+  animation: streakPulse 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  pointer-events: none;
+  white-space: nowrap;
+}
+
+@keyframes streakPulse {
+  0% { transform: translateY(-50%) scale(0.8); opacity: 0; }
+  50% { transform: translateY(-50%) scale(1.1); }
+  100% { transform: translateY(-50%) scale(1); opacity: 1; }
+}
+
+.giant-play-btn {
+  position: relative;
+}
+
+.giant-play-btn.playing::before,
+.giant-play-btn.playing::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  border: 3px solid var(--primary-color);
+  box-sizing: border-box;
+  animation: pulse-ring 2s infinite cubic-bezier(0.215, 0.61, 0.355, 1);
+  pointer-events: none;
+  z-index: -1;
+}
+
+.giant-play-btn.playing::after {
+  animation-delay: 1s;
+}
+
+@keyframes pulse-ring {
+  0% { transform: translate(-50%, -50%) scale(1); opacity: 1; }
+  100% { transform: translate(-50%, -50%) scale(2); opacity: 0; }
+}
+

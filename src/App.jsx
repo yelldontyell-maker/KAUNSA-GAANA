@@ -5,6 +5,7 @@ import dbDHH from './db_dhh.json';
 import dbBollywood from './db_bollywood.json';
 import dbSpotify from './db_spotify.json';
 import RainEffect from './RainEffect';
+import Confetti from 'react-confetti';
 
 const STAGES = [0.1, 0.5, 2, 8, 15]; // 5 stages for 5 guess boxes
 const MAX_GUESSES = 5;
@@ -37,6 +38,8 @@ function App() {
   const [showSettings, setShowSettings] = useState(false);
   const [showQR, setShowQR] = useState(false);
   const [showDonationBox, setShowDonationBox] = useState(false);
+  const [streak, setStreak] = useState(0);
+  const [showConfetti, setShowConfetti] = useState(false);
 
   useEffect(() => {
     // Show after initial delay, then toggle every 60s
@@ -50,6 +53,21 @@ function App() {
       clearInterval(interval);
     };
   }, []);
+
+  // Dynamic Theme Colors
+  useEffect(() => {
+    const root = document.documentElement;
+    if (activeGenre === 'Desi Hip Hop') {
+      root.style.setProperty('--primary-color', '#00e5ff');
+      root.style.setProperty('--primary-color-rgb', '0, 229, 255');
+    } else if (activeGenre === 'Bollywood') {
+      root.style.setProperty('--primary-color', '#ff2a5f');
+      root.style.setProperty('--primary-color-rgb', '255, 42, 95');
+    } else {
+      root.style.setProperty('--primary-color', '#1ed760');
+      root.style.setProperty('--primary-color-rgb', '30, 215, 96');
+    }
+  }, [activeGenre]);
 
   const playerRef = useRef(null);
   const allowedDuration = STAGES[Math.min(guesses.length, MAX_GUESSES - 1)];
@@ -293,19 +311,44 @@ function App() {
     const query = searchInput.toLowerCase();
     return songs
       .filter(s => s.name.toLowerCase().includes(query) || s.artist.toLowerCase().includes(query))
-      .slice(0, 5);
+      .slice(0, 50);
   }, [searchInput, songs]);
 
   const handleGuess = (songName) => {
-    const isCorrect = songName.toLowerCase() === currentSong.name.toLowerCase();
-    setGuesses([...guesses, { type: isCorrect ? 'correct' : 'incorrect', text: songName }]);
+    const guessedSong = songs.find(s => s.name.toLowerCase() === songName.toLowerCase());
+    const isCorrect = guessedSong && guessedSong.name.toLowerCase() === currentSong.name.toLowerCase();
+    
+    let type = 'incorrect';
+    if (isCorrect) {
+      type = 'correct';
+    } else if (guessedSong) {
+      const guessedArtists = guessedSong.artist.toLowerCase().split(',').map(a => a.trim());
+      const correctArtists = currentSong.artist.toLowerCase().split(',').map(a => a.trim());
+      const hasCommonArtist = guessedArtists.some(a => correctArtists.includes(a));
+      if (hasCommonArtist) {
+        type = 'partial';
+      }
+    }
+
+    setGuesses([...guesses, { type, text: songName }]);
     setSearchInput('');
     setShowAutocomplete(false);
+    
+    if (isCorrect) {
+      setStreak(prev => prev + 1);
+      setShowConfetti(true);
+      setTimeout(() => setShowConfetti(false), 4000);
+    } else if (guesses.length + 1 >= MAX_GUESSES) {
+      setStreak(0);
+    }
   };
 
   const handleSkip = () => {
     setGuesses([...guesses, { type: 'skip', text: 'ghee khatam ?' }]);
     setSearchInput('');
+    if (guesses.length + 1 >= MAX_GUESSES) {
+      setStreak(0);
+    }
   };
 
   useEffect(() => {
@@ -357,6 +400,8 @@ function App() {
 
   return (
     <div className="layout">
+      {showConfetti && <Confetti width={window.innerWidth} height={window.innerHeight} recycle={false} numberOfPieces={300} />}
+
       {/* Parallax Background */}
       <div 
         className="parallax-bg" 
@@ -439,6 +484,9 @@ function App() {
               } else if (guess.type === 'correct') {
                 boxClass += ' correct';
                 content = guess.text;
+              } else if (guess.type === 'partial') {
+                boxClass += ' partial';
+                content = guess.text;
               } else {
                 boxClass += ' incorrect';
                 content = guess.text;
@@ -471,7 +519,13 @@ function App() {
         {/* Play Button Area */}
         {!isGameOver && (
           <div className="play-wrapper">
-            <button className="giant-play-btn" onClick={togglePlay}>
+            {/* Streak Counter */}
+            {streak > 0 && (
+              <div className="streak-counter" key={streak}>
+                🔥 Streak: {streak}
+              </div>
+            )}
+            <button className={`giant-play-btn ${isPlaying ? 'playing' : ''}`} onClick={togglePlay}>
               {isPlaying ? <Square fill="currentColor" size={32} /> : <Play fill="currentColor" size={36} style={{marginLeft: '6px'}} />}
             </button>
           </div>
