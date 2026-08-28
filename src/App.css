@@ -42,8 +42,8 @@
 
 /* Header & Taunt */
 .taunt-text {
-  font-family: 'Samarkan', 'Righteous', cursive;
-  font-size: clamp(1.5rem, 4vw, 3rem);
+  font-family: 'Anton', 'Righteous', sans-serif;
+  font-size: clamp(2rem, 5vw, 4rem);
   font-weight: 400;
   color: white;
   letter-spacing: 2px;
@@ -241,6 +241,12 @@
 .guess-box.skip {
   background: rgba(60, 60, 60, 0.8);
   border-color: rgba(255, 255, 255, 0.2);
+}
+
+.guess-box.hint {
+  background: #3949ab;
+  color: white;
+  border-color: #5c6bc0;
 }
 
 /* Progress Bar Timeline */

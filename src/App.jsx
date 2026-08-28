@@ -39,8 +39,41 @@ function App() {
   const [showSettings, setShowSettings] = useState(false);
   const [showQR, setShowQR] = useState(false);
   const [showDonationBox, setShowDonationBox] = useState(false);
-  const [streak, setStreak] = useState(0);
   const [showConfetti, setShowConfetti] = useState(false);
+  const [sfxEnabled, setSfxEnabled] = useState(true);
+
+  // Web Audio API Sound Effects
+  const playTone = (type) => {
+    if (!sfxEnabled) return;
+    try {
+      const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+      const oscillator = audioCtx.createOscillator();
+      const gainNode = audioCtx.createGain();
+      
+      oscillator.connect(gainNode);
+      gainNode.connect(audioCtx.destination);
+      
+      if (type === 'win') {
+        oscillator.type = 'sine';
+        oscillator.frequency.setValueAtTime(880, audioCtx.currentTime); // A5
+        oscillator.frequency.exponentialRampToValueAtTime(1760, audioCtx.currentTime + 0.1); // Slide up
+        gainNode.gain.setValueAtTime(0.1, audioCtx.currentTime);
+        gainNode.gain.exponentialRampToValueAtTime(0.001, audioCtx.currentTime + 0.5);
+        oscillator.start();
+        oscillator.stop(audioCtx.currentTime + 0.5);
+      } else if (type === 'lose') {
+        oscillator.type = 'sawtooth';
+        oscillator.frequency.setValueAtTime(150, audioCtx.currentTime); 
+        oscillator.frequency.exponentialRampToValueAtTime(100, audioCtx.currentTime + 0.3);
+        gainNode.gain.setValueAtTime(0.1, audioCtx.currentTime);
+        gainNode.gain.exponentialRampToValueAtTime(0.001, audioCtx.currentTime + 0.4);
+        oscillator.start();
+        oscillator.stop(audioCtx.currentTime + 0.4);
+      }
+    } catch (e) {
+      console.error('AudioContext error', e);
+    }
+  };
 
   useEffect(() => {
     // Show after initial delay, then toggle every 60s
@@ -335,19 +368,48 @@ function App() {
     setShowAutocomplete(false);
     
     if (isCorrect) {
-      setStreak(prev => prev + 1);
       setShowConfetti(true);
+      playTone('win');
       setTimeout(() => setShowConfetti(false), 4000);
     } else if (guesses.length + 1 >= MAX_GUESSES) {
-      setStreak(0);
+      playTone('lose');
     }
+  };
+
+  const handleHint = () => {
+    const hintCount = guesses.filter(g => g.type === 'hint').length;
+    const cost = hintCount + 1;
+    if (guesses.length + cost >= MAX_GUESSES) return;
+    if (!currentSong) return;
+    
+    let hintText = '';
+    if (hintCount === 0) {
+      const artistInitial = currentSong.artist ? currentSong.artist[0].toUpperCase() : '?';
+      hintText = `Hint 1: Artist starts with '${artistInitial}'`;
+    } else if (hintCount === 1) {
+      const songInitial = currentSong.name ? currentSong.name[0].toUpperCase() : '?';
+      hintText = `Hint 2: Song starts with '${songInitial}'`;
+    } else if (hintCount === 2) {
+      const words = currentSong.name ? currentSong.name.split(' ').length : 1;
+      hintText = `Hint 3: Song name has ${words} word(s)`;
+    } else {
+      const artistLen = currentSong.artist ? currentSong.artist.replace(/\s/g, '').length : 0;
+      hintText = `Hint 4: Artist has ${artistLen} letters`;
+    }
+    
+    const newGuesses = [{ type: 'hint', text: hintText }];
+    for (let i = 1; i < cost; i++) {
+      newGuesses.push({ type: 'skip', text: '(-1 Guess for Hint)' });
+    }
+    
+    setGuesses([...guesses, ...newGuesses]);
   };
 
   const handleSkip = () => {
     setGuesses([...guesses, { type: 'skip', text: 'ghee khatam ?' }]);
     setSearchInput('');
     if (guesses.length + 1 >= MAX_GUESSES) {
-      setStreak(0);
+      playTone('lose');
     }
   };
 
@@ -451,7 +513,7 @@ function App() {
       <div className="main-content">
         
         <div className="taunt-text">
-          CUTU TERE BASKI NAHI <span style={{color: 'var(--primary-color)'}}>GUESS</span> KARNA
+          CUTU TERE BASKI NAHI <span style={{ fontFamily: "'Permanent Marker', cursive", color: 'var(--primary-color)', fontSize: '1.2em', display: 'inline-block', transform: 'rotate(-5deg) translateY(-5px)' }}>GUESS</span> KARNA
         </div>
 
         <div className="game-body">
@@ -487,6 +549,9 @@ function App() {
               } else if (guess.type === 'partial') {
                 boxClass += ' partial';
                 content = guess.text;
+              } else if (guess.type === 'hint') {
+                boxClass += ' hint';
+                content = guess.text;
               } else {
                 boxClass += ' incorrect';
                 content = guess.text;
@@ -519,12 +584,6 @@ function App() {
         {/* Play Button Area */}
         {!isGameOver && (
           <div className="play-wrapper">
-            {/* Streak Counter */}
-            {streak > 0 && (
-              <div className="streak-counter" key={streak}>
-                🔥 Streak: {streak}
-              </div>
-            )}
             <button className={`giant-play-btn ${isPlaying ? 'playing' : ''}`} onClick={togglePlay}>
               {isPlaying ? <Square fill="currentColor" size={32} /> : <Play fill="currentColor" size={36} style={{marginLeft: '6px'}} />}
             </button>
@@ -554,7 +613,23 @@ function App() {
               </div>
             )}
           </div>
-          <button className="skip-btn" onClick={handleSkip}>
+          
+          {guesses.length >= 2 && (() => {
+            const hintCost = guesses.filter(g => g.type === 'hint').length + 1;
+            return (
+              <button 
+                className="skip-btn" 
+                style={{ backgroundColor: '#2b2b2b', color: '#fff', border: '1px solid #444', padding: '0 1rem' }}
+                onClick={handleHint} 
+                disabled={isGameOver || guesses.length + hintCost >= MAX_GUESSES}
+                title={`Cost: ${hintCost} Guess(es)`}
+              >
+                💡 Hint
+              </button>
+            );
+          })()}
+          
+          <button className="skip-btn" onClick={handleSkip} disabled={isGameOver}>
              Skip
           </button>
         </div>
@@ -660,6 +735,11 @@ function App() {
               </div>
             </div>
 
+            <div className="settings-row">
+              <div className="settings-label"><Volume2 size={20} /> Sound Effects</div>
+              <div className={`toggle-switch ${sfxEnabled ? 'active' : ''}`} onClick={() => setSfxEnabled(!sfxEnabled)}></div>
+            </div>
+            
             <div className="settings-row">
               <div className="settings-label"><RefreshCw size={20} /> Auto Reroll</div>
               <div className={`toggle-switch ${autoReroll ? 'active' : ''}`} onClick={() => setAutoReroll(!autoReroll)}></div>
