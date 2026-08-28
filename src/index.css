@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+@font-face {
+  font-family: 'Samarkan';
+  src: url('/fonts/SAMAN___.TTF') format('truetype');
+}
+
+:root {
+  --primary-color: #29d96c;
+  --primary-color-rgb: 41, 217, 108;
+  --bg-dark: #0a0510;
+  --bg-panel: #11091a;
+  --primary-accent: #9d4edd;
+  --primary-hover: #7b2cbf;
+  --text-primary: #ffffff;
+  --text-secondary: #8b938b;
+  --border-color: #222b22;
+  
+  --diff-easy: #1c4b31;
+  --diff-easy-text: #29d96c;
+  --diff-medium: #4a3e14;
+  --diff-medium-text: #d9b829;
+  --diff-hard: #4a2814;
+  --diff-hard-text: #d96f29;
+  --diff-expert: #4a1414;
+  --diff-expert-text: #d93929;
+  --diff-impossible: #2b144a;
+  --diff-impossible-text: #8b29d9;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: var(--bg-dark);
+  color: var(--text-primary);
+  min-height: 100vh;
+  display: flex;
+  overflow: hidden;
+}
+
+button {
+  font-family: 'Inter', sans-serif;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  transition: all 0.2s ease;
+}
+
+input {
+  font-family: 'Inter', sans-serif;
+}
