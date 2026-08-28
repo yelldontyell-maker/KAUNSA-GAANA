@@ -4,6 +4,7 @@ import './App.css';
 import dbDHH from './db_dhh.json';
 import dbBollywood from './db_bollywood.json';
 import dbSpotify from './db_spotify.json';
+import RainEffect from './RainEffect';
 
 const STAGES = [0.1, 0.5, 2, 8, 15]; // 5 stages for 5 guess boxes
 const MAX_GUESSES = 5;
@@ -361,6 +362,7 @@ function App() {
         className="parallax-bg" 
         style={{ transform: `translate(${mousePos.x * -1.5}%, ${mousePos.y * -1.5}%)` }}
       ></div>
+      <RainEffect />
 
       {/* Top Right Header Buttons */}
       <div className="header-buttons">

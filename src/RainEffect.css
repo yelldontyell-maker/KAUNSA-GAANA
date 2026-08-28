@@ -1,0 +1,25 @@
+.rain-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none; /* so it doesn't block clicks */
+  z-index: 5; /* Behind content but over background */
+  overflow: hidden;
+}
+
+.drop {
+  position: absolute;
+  top: -20px;
+  width: 2px;
+  height: 25px;
+  background: linear-gradient(to bottom, rgba(100, 200, 255, 0), rgba(150, 220, 255, 0.7));
+  border-radius: 0 0 5px 5px;
+  animation: fall linear infinite;
+}
+
+@keyframes fall {
+  0% { transform: translateY(-5vh); }
+  100% { transform: translateY(110vh); }
+}
