@@ -878,6 +878,7 @@ input[type=range]::-webkit-slider-runnable-track {
     padding: 1rem 0.5rem;
     margin-top: 1rem;
     width: 100%;
+    min-height: 100vh;
     justify-content: flex-start;
   }
   
