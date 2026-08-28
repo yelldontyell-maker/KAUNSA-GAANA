@@ -869,12 +869,17 @@ input[type=range]::-webkit-slider-runnable-track {
 
 /* Mobile Responsive Design */
 @media (max-width: 768px) {
+  body {
+    overflow-y: auto !important;
+  }
+  
   .layout {
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
-    height: 100vh;
-    overflow-y: auto;
+    height: auto;
+    min-height: 100dvh;
+    overflow-y: visible;
     overflow-x: hidden;
     padding-bottom: 40px;
   }
@@ -884,7 +889,7 @@ input[type=range]::-webkit-slider-runnable-track {
     padding: 1rem 0.5rem;
     margin-top: 1rem;
     width: 100%;
-    min-height: 100vh;
+    min-height: 100dvh;
     justify-content: flex-start;
   }
   
