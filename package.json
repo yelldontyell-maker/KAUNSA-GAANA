@@ -14,6 +14,7 @@
     "isomorphic-unfetch": "^4.0.2",
     "lucide-react": "^1.34.0",
     "react": "^19.2.8",
+    "react-confetti": "^6.4.0",
     "react-dom": "^19.2.8",
     "spotify-url-info": "^3.3.3",
     "youtube-search-api": "^2.0.1",
