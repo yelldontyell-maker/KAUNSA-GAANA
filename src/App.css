@@ -187,10 +187,12 @@
   white-space: nowrap;
 }
 
-.genre-toggle-btn:hover {
-  color: black;
-  background: var(--btn-theme-color);
-  opacity: 0.8;
+@media (hover: hover) {
+  .genre-toggle-btn:hover {
+    color: black;
+    background: var(--btn-theme-color);
+    opacity: 0.8;
+  }
 }
 
 .genre-toggle-btn.active {
