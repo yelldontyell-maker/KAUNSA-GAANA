@@ -1,16 +1,18 @@
 import React, { useState, useRef, useEffect, useMemo } from 'react';
-import { Play, Square, Search, RotateCcw, ArrowRight, Settings, Volume2, Music, Moon, X, RefreshCw, Crown } from 'lucide-react';
+import { Play, Square, Search, RotateCcw, ArrowRight, Settings, Volume2, Music, Moon, X, RefreshCw, Crown, Dices } from 'lucide-react';
 import './App.css';
 import dbDHH from './db_dhh.json';
 import dbBollywood from './db_bollywood.json';
 import dbSpotify from './db_spotify.json';
+import db90s from './db_90s.json';
+import dbSad from './db_sad.json';
 import RainEffect from './RainEffect';
 import Confetti from 'react-confetti';
 import Fuse from 'fuse.js';
 
 const STAGES = [0.1, 0.5, 2, 8, 15]; // 5 stages for 5 guess boxes
 const MAX_GUESSES = 5;
-const GENRES = ['All', 'Bollywood', 'Desi Hip Hop'];
+const GENRES = ['Desi Hip Hop', 'Bollywood', "90's", 'Sad Songs'];
 
 function App() {
   const [songs, setSongs] = useState([]);
@@ -33,6 +35,8 @@ function App() {
   const [countdown, setCountdown] = useState(null);
   const [ytReady, setYtReady] = useState(false);
   const [isSpinning, setIsSpinning] = useState(false);
+  const [highlightedGenre, setHighlightedGenre] = useState(null);
+  const [isSpinningRoulette, setIsSpinningRoulette] = useState(false);
   
   const [autoReroll, setAutoReroll] = useState(false);
   const [showRules, setShowRules] = useState(false);
@@ -88,20 +92,7 @@ function App() {
     };
   }, []);
 
-  // Dynamic Theme Colors
-  useEffect(() => {
-    const root = document.documentElement;
-    if (activeGenre === 'Desi Hip Hop') {
-      root.style.setProperty('--primary-color', '#00e5ff');
-      root.style.setProperty('--primary-color-rgb', '0, 229, 255');
-    } else if (activeGenre === 'Bollywood') {
-      root.style.setProperty('--primary-color', '#ff2a5f');
-      root.style.setProperty('--primary-color-rgb', '255, 42, 95');
-    } else {
-      root.style.setProperty('--primary-color', '#1ed760');
-      root.style.setProperty('--primary-color-rgb', '30, 215, 96');
-    }
-  }, [activeGenre]);
+
 
   const playerRef = useRef(null);
   const allowedDuration = STAGES[Math.min(guesses.length, MAX_GUESSES - 1)];
@@ -136,6 +127,12 @@ function App() {
     } else if (activeGenre === 'Desi Hip Hop') {
       root.style.setProperty('--primary-color', '#00e5ff');
       root.style.setProperty('--primary-color-rgb', '0, 229, 255');
+    } else if (activeGenre === "90's") {
+      root.style.setProperty('--primary-color', '#ff9800');
+      root.style.setProperty('--primary-color-rgb', '255, 152, 0');
+    } else if (activeGenre === 'Sad Songs') {
+      root.style.setProperty('--primary-color', '#b274ff');
+      root.style.setProperty('--primary-color-rgb', '178, 116, 255');
     } else {
       root.style.setProperty('--primary-color', '#29d96c');
       root.style.setProperty('--primary-color-rgb', '41, 217, 108');
@@ -171,9 +168,8 @@ function App() {
     
     let targetList = songList;
     if (activeGenre === 'All') {
-      const isBollywood = Math.random() < 0.5;
-      targetList = isBollywood ? (dbBollywood || []) : [...(dbDHH || []), ...(dbSpotify || [])];
-      if (!targetList.length) targetList = songList;
+      // Just use the combined list directly
+      targetList = songList;
     }
     
     let randomSong = targetList[Math.floor(Math.random() * targetList.length)];
@@ -405,6 +401,24 @@ function App() {
     setGuesses([...guesses, ...newGuesses]);
   };
 
+  const spinRoulette = () => {
+    if (isSpinningRoulette) return;
+    setIsSpinningRoulette(true);
+    let spins = 0;
+    const maxSpins = 20 + Math.floor(Math.random() * 10);
+    const interval = setInterval(() => {
+      setHighlightedGenre(GENRES[spins % GENRES.length]);
+      spins++;
+      if (spins > maxSpins) {
+        clearInterval(interval);
+        const finalGenre = GENRES[(spins - 1) % GENRES.length];
+        setHighlightedGenre(null);
+        setActiveGenre(finalGenre);
+        setIsSpinningRoulette(false);
+      }
+    }, 100);
+  };
+
   const handleSkip = () => {
     setGuesses([...guesses, { type: 'skip', text: 'ghee khatam ?' }]);
     setSearchInput('');
@@ -517,15 +531,27 @@ function App() {
         </div>
 
         <div className="game-body">
+          <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '8px', marginTop: '-15px', zIndex: 10, position: 'relative' }}>
+            <button 
+              className={`roulette-btn ${isSpinningRoulette ? 'spinning' : ''}`}
+              onClick={spinRoulette}
+              disabled={isSpinningRoulette}
+              title="Pick Random Genre"
+            >
+              <Dices size={24} />
+            </button>
+          </div>
           <div className="genre-toggle-group">
           {GENRES.map(genre => {
-            const btnColor = genre === 'All' ? '#29d96c' : genre === 'Bollywood' ? '#ff3366' : '#00e5ff';
+            const btnColor = genre === 'Bollywood' ? '#ff3366' : genre === 'Desi Hip Hop' ? '#00e5ff' : genre === "90's" ? '#ff9800' : '#b274ff';
+            const isActive = highlightedGenre ? highlightedGenre === genre : activeGenre === genre;
             return (
               <button 
                 key={genre}
-                className={`genre-toggle-btn ${activeGenre === genre ? 'active' : ''}`}
+                className={`genre-toggle-btn ${isActive ? 'active' : ''}`}
                 style={{ '--btn-theme-color': btnColor }}
                 onClick={() => setActiveGenre(genre)}
+                disabled={isSpinningRoulette}
               >
                 {genre}
               </button>
