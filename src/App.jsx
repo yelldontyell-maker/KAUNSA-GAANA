@@ -150,8 +150,12 @@ function App() {
       validSongs = [...(dbDHH || []), ...(dbSpotify || [])];
     } else if (genre === 'Bollywood') {
       validSongs = dbBollywood || [];
+    } else if (genre === "90's") {
+      validSongs = db90s || [];
+    } else if (genre === 'Sad Songs') {
+      validSongs = dbSad || [];
     } else {
-      validSongs = [...(dbDHH || []), ...(dbBollywood || []), ...(dbSpotify || [])];
+      validSongs = [...(dbDHH || []), ...(dbBollywood || []), ...(dbSpotify || []), ...(db90s || []), ...(dbSad || [])];
     }
     
     if (validSongs.length > 0) {
