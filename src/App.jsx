@@ -14,6 +14,73 @@ const STAGES = [0.1, 0.5, 2, 8, 15]; // 5 stages for 5 guess boxes
 const MAX_GUESSES = 5;
 const GENRES = ['Desi Hip Hop', 'Bollywood', "90's", 'Sad Songs'];
 
+let audioCtx = null;
+const playTickSound = () => {
+  try {
+    if (!audioCtx) {
+      const AudioContext = window.AudioContext || window.webkitAudioContext;
+      audioCtx = new AudioContext();
+    }
+    if (audioCtx.state === 'suspended') {
+      audioCtx.resume();
+    }
+    const osc = audioCtx.createOscillator();
+    const gainNode = audioCtx.createGain();
+    
+    osc.type = 'sine';
+    osc.frequency.setValueAtTime(800, audioCtx.currentTime);
+    osc.frequency.exponentialRampToValueAtTime(300, audioCtx.currentTime + 0.1);
+    
+    gainNode.gain.setValueAtTime(0.3, audioCtx.currentTime);
+    gainNode.gain.exponentialRampToValueAtTime(0.01, audioCtx.currentTime + 0.1);
+    
+    osc.connect(gainNode);
+    gainNode.connect(audioCtx.destination);
+    
+    osc.start();
+    osc.stop(audioCtx.currentTime + 0.1);
+  } catch (e) {
+    console.log("Audio not supported or blocked");
+  }
+};
+
+const playVoiceLine = (text) => {
+  try {
+    if ('speechSynthesis' in window) {
+      window.speechSynthesis.cancel();
+      const utterance = new SpeechSynthesisUtterance(text);
+      
+      // Try to find a sweet/soothing female voice
+      const voices = window.speechSynthesis.getVoices();
+      const preferredVoices = ['Google UK English Female', 'Microsoft Zira', 'Microsoft Aria', 'Samantha', 'Karen', 'Victoria'];
+      let selectedVoice = null;
+      
+      for (let pref of preferredVoices) {
+        selectedVoice = voices.find(v => v.name.includes(pref));
+        if (selectedVoice) break;
+      }
+      
+      // Fallback to any female-sounding voice if preferred ones aren't found
+      if (!selectedVoice) {
+        selectedVoice = voices.find(v => v.name.toLowerCase().includes('female') || v.name.toLowerCase().includes('woman'));
+      }
+      
+      if (selectedVoice) {
+        utterance.voice = selectedVoice;
+      }
+      
+      // Soften the tone
+      utterance.rate = 0.95; // Slightly slower
+      utterance.pitch = 1.2; // Slightly higher/sweeter
+      utterance.volume = 0.8; // Not too loud
+      
+      window.speechSynthesis.speak(utterance);
+    }
+  } catch(e) {
+    console.log("Speech not supported");
+  }
+};
+
 function App() {
   const [songs, setSongs] = useState([]);
   const [currentSong, setCurrentSong] = useState(null);
@@ -411,6 +478,7 @@ function App() {
     let spins = 0;
     const maxSpins = 20 + Math.floor(Math.random() * 10);
     const interval = setInterval(() => {
+      playTickSound();
       setHighlightedGenre(GENRES[spins % GENRES.length]);
       spins++;
       if (spins > maxSpins) {
@@ -419,6 +487,7 @@ function App() {
         setHighlightedGenre(null);
         setActiveGenre(finalGenre);
         setIsSpinningRoulette(false);
+        playVoiceLine(finalGenre);
       }
     }, 100);
   };

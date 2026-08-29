@@ -1,1706 +1,2564 @@
 [
   {
+    "name": "The Kids Aren't Alright",
+    "artist": "The Offspring",
+    "type": "youtube",
+    "videoId": "1KP_nPltW9s",
+    "cover": "https://i.ytimg.com/vi/1KP_nPltW9s/hqdefault.jpg"
+  },
+  {
+    "name": "Under the Bridge",
+    "artist": "Red Hot Chili Peppers",
+    "type": "youtube",
+    "videoId": "N7ZyzCNeFKY",
+    "cover": "https://i.ytimg.com/vi/N7ZyzCNeFKY/hqdefault.jpg"
+  },
+  {
+    "name": "It Was A Good Day",
+    "artist": "Ice Cube",
+    "type": "youtube",
+    "videoId": "Gb_-rZB2Foc",
+    "cover": "https://i.ytimg.com/vi/Gb_-rZB2Foc/hqdefault.jpg"
+  },
+  {
+    "name": "Iris",
+    "artist": "The Goo Goo Dolls",
+    "type": "youtube",
+    "videoId": "CUbJQGqFoi0",
+    "cover": "https://i.ytimg.com/vi/CUbJQGqFoi0/hqdefault.jpg"
+  },
+  {
+    "name": "Creep",
+    "artist": "Radiohead",
+    "type": "youtube",
+    "videoId": "CZnj4pbYdmw",
+    "cover": "https://i.ytimg.com/vi/CZnj4pbYdmw/hqdefault.jpg"
+  },
+  {
+    "name": "Thunderstruck",
+    "artist": "AC/DC",
+    "type": "youtube",
+    "videoId": "mBksMIl9Kf0",
+    "cover": "https://i.ytimg.com/vi/mBksMIl9Kf0/hqdefault.jpg"
+  },
+  {
+    "name": "Losing My Religion",
+    "artist": "R.E.M.",
+    "type": "youtube",
+    "videoId": "OKvCV8MFIaw",
+    "cover": "https://i.ytimg.com/vi/OKvCV8MFIaw/hqdefault.jpg"
+  },
+  {
+    "name": "Gangsta's Paradise",
+    "artist": "Coolio, L.V.",
+    "type": "youtube",
+    "videoId": "7DXlY8LhWnI",
+    "cover": "https://i.ytimg.com/vi/7DXlY8LhWnI/hqdefault.jpg"
+  },
+  {
+    "name": "Everlong",
+    "artist": "Foo Fighters",
+    "type": "youtube",
+    "videoId": "hq0rZ3IiyWw",
+    "cover": "https://i.ytimg.com/vi/hq0rZ3IiyWw/hqdefault.jpg"
+  },
+  {
+    "name": "No Scrubs",
+    "artist": "TLC",
+    "type": "youtube",
+    "videoId": "18SwG-kep7s",
+    "cover": "https://i.ytimg.com/vi/18SwG-kep7s/hqdefault.jpg"
+  },
+  {
+    "name": "...Baby One More Time",
+    "artist": "Britney Spears",
+    "type": "youtube",
+    "videoId": "fEfvTTJNeAY",
+    "cover": "https://i.ytimg.com/vi/fEfvTTJNeAY/hqdefault.jpg"
+  },
+  {
+    "name": "Bitter Sweet Symphony - Remastered 2016",
+    "artist": "The Verve",
+    "type": "youtube",
+    "videoId": "JnRw8bXVbPI",
+    "cover": "https://i.ytimg.com/vi/JnRw8bXVbPI/hqdefault.jpg"
+  },
+  {
+    "name": "They Don't Care About Us",
+    "artist": "Michael Jackson",
+    "type": "youtube",
+    "videoId": "VNMd4v5Fdz0",
+    "cover": "https://i.ytimg.com/vi/VNMd4v5Fdz0/hqdefault.jpg"
+  },
+  {
+    "name": "What's Up?",
+    "artist": "4 Non Blondes",
+    "type": "youtube",
+    "videoId": "LRx8_mdaAg8",
+    "cover": "https://i.ytimg.com/vi/LRx8_mdaAg8/hqdefault.jpg"
+  },
+  {
+    "name": "Wonderwall - Remastered",
+    "artist": "Oasis",
+    "type": "youtube",
+    "videoId": "FVdjZYfDuLE",
+    "cover": "https://i.ytimg.com/vi/FVdjZYfDuLE/hqdefault.jpg"
+  },
+  {
+    "name": "Linger - Remastered 2026",
+    "artist": "The Cranberries",
+    "type": "youtube",
+    "videoId": "jQFFhqR-lRk",
+    "cover": "https://i.ytimg.com/vi/jQFFhqR-lRk/hqdefault.jpg"
+  },
+  {
+    "name": "Kiss Me",
+    "artist": "Sixpence None The Richer",
+    "type": "youtube",
+    "videoId": "CAC-onWPMB0",
+    "cover": "https://i.ytimg.com/vi/CAC-onWPMB0/hqdefault.jpg"
+  },
+  {
+    "name": "Teenage Dirtbag",
+    "artist": "Wheatus",
+    "type": "youtube",
+    "videoId": "2caLzIVzyiw",
+    "cover": "https://i.ytimg.com/vi/2caLzIVzyiw/hqdefault.jpg"
+  },
+  {
+    "name": "Ms. Jackson",
+    "artist": "Outkast",
+    "type": "youtube",
+    "videoId": "jDHWD2jap1o",
+    "cover": "https://i.ytimg.com/vi/jDHWD2jap1o/hqdefault.jpg"
+  },
+  {
+    "name": "All The Small Things",
+    "artist": "blink-182",
+    "type": "youtube",
+    "videoId": "ok5BJlAd5-4",
+    "cover": "https://i.ytimg.com/vi/ok5BJlAd5-4/hqdefault.jpg"
+  },
+  {
+    "name": "Lovefool",
+    "artist": "The Cardigans",
+    "type": "youtube",
+    "videoId": "5hZngys37rU",
+    "cover": "https://i.ytimg.com/vi/5hZngys37rU/hqdefault.jpg"
+  },
+  {
+    "name": "Enter Sandman - Remastered 2021",
+    "artist": "Metallica",
+    "type": "youtube",
+    "videoId": "XZuM4zFg-60",
+    "cover": "https://i.ytimg.com/vi/XZuM4zFg-60/hqdefault.jpg"
+  },
+  {
+    "name": "Oye Mi Amor",
+    "artist": "Maná",
+    "type": "youtube",
+    "videoId": "OhXeBoTlCr4",
+    "cover": "https://i.ytimg.com/vi/OhXeBoTlCr4/hqdefault.jpg"
+  },
+  {
+    "name": "Island In The Sun",
+    "artist": "Weezer",
+    "type": "youtube",
+    "videoId": "erG5rgNYSdk",
+    "cover": "https://i.ytimg.com/vi/erG5rgNYSdk/hqdefault.jpg"
+  },
+  {
+    "name": "November Rain",
+    "artist": "Guns N' Roses",
+    "type": "youtube",
+    "videoId": "WjFG03kS7nQ",
+    "cover": "https://i.ytimg.com/vi/WjFG03kS7nQ/hqdefault.jpg"
+  },
+  {
+    "name": "Genie In a Bottle",
+    "artist": "Christina Aguilera",
+    "type": "youtube",
+    "videoId": "PzaTaIIIQy4",
+    "cover": "https://i.ytimg.com/vi/PzaTaIIIQy4/hqdefault.jpg"
+  },
+  {
+    "name": "Still D.R.E.",
+    "artist": "Dr. Dre, Snoop Dogg",
+    "type": "youtube",
+    "videoId": "BaFF4OkLOss",
+    "cover": "https://i.ytimg.com/vi/BaFF4OkLOss/hqdefault.jpg"
+  },
+  {
+    "name": "Santeria",
+    "artist": "Sublime",
+    "type": "youtube",
+    "videoId": "k3ZeUL4fRyk",
+    "cover": "https://i.ytimg.com/vi/k3ZeUL4fRyk/hqdefault.jpg"
+  },
+  {
+    "name": "Hypnotize - 2014 Remaster",
+    "artist": "The Notorious B.I.G.",
+    "type": "youtube",
+    "videoId": "eaPzCHEQExs",
+    "cover": "https://i.ytimg.com/vi/eaPzCHEQExs/hqdefault.jpg"
+  },
+  {
+    "name": "Wind Of Change",
+    "artist": "Scorpions",
+    "type": "youtube",
+    "videoId": "mZ2BueFde9A",
+    "cover": "https://i.ytimg.com/vi/mZ2BueFde9A/hqdefault.jpg"
+  },
+  {
+    "name": "Black",
+    "artist": "Pearl Jam",
+    "type": "youtube",
+    "videoId": "HrrRTo0w7SY",
+    "cover": "https://i.ytimg.com/vi/HrrRTo0w7SY/hqdefault.jpg"
+  },
+  {
+    "name": "Semi-Charmed Life",
+    "artist": "Third Eye Blind",
+    "type": "youtube",
+    "videoId": "KR5pPlE4rqc",
+    "cover": "https://i.ytimg.com/vi/KR5pPlE4rqc/hqdefault.jpg"
+  },
+  {
+    "name": "You Get What You Give",
+    "artist": "New Radicals",
+    "type": "youtube",
+    "videoId": "oPUbrI3SZhU",
+    "cover": "https://i.ytimg.com/vi/oPUbrI3SZhU/hqdefault.jpg"
+  },
+  {
+    "name": "Heart-Shaped Box",
+    "artist": "Nirvana",
+    "type": "youtube",
+    "videoId": "_ouLbeRz_yU",
+    "cover": "https://i.ytimg.com/vi/_ouLbeRz_yU/hqdefault.jpg"
+  },
+  {
+    "name": "Killing In The Name",
+    "artist": "Rage Against The Machine",
+    "type": "youtube",
+    "videoId": "JYJ6QJqy92s",
+    "cover": "https://i.ytimg.com/vi/JYJ6QJqy92s/hqdefault.jpg"
+  },
+  {
+    "name": "I Want It That Way",
+    "artist": "Backstreet Boys",
+    "type": "youtube",
+    "videoId": "T_cnnhd_ZlA",
+    "cover": "https://i.ytimg.com/vi/T_cnnhd_ZlA/hqdefault.jpg"
+  },
+  {
+    "name": "It Ain't Over 'Til It's Over",
+    "artist": "Lenny Kravitz",
+    "type": "youtube",
+    "videoId": "7hdBo5kxfGo",
+    "cover": "https://i.ytimg.com/vi/7hdBo5kxfGo/hqdefault.jpg"
+  },
+  {
+    "name": "Remember the Time",
+    "artist": "Michael Jackson",
+    "type": "youtube",
+    "videoId": "lct0OSxtnSQ",
+    "cover": "https://i.ytimg.com/vi/lct0OSxtnSQ/hqdefault.jpg"
+  },
+  {
+    "name": "Believe",
+    "artist": "Cher",
+    "type": "youtube",
+    "videoId": "FpoH-vKgp64",
+    "cover": "https://i.ytimg.com/vi/FpoH-vKgp64/hqdefault.jpg"
+  },
+  {
+    "name": "Hit 'Em Up - Single Version",
+    "artist": "2Pac, Outlawz",
+    "type": "youtube",
+    "videoId": "ugD3_yt756w",
+    "cover": "https://i.ytimg.com/vi/ugD3_yt756w/hqdefault.jpg"
+  },
+  {
+    "name": "Zombie - 2025 Remastered",
+    "artist": "The Cranberries",
+    "type": "youtube",
+    "videoId": "yGxHDmHoqXc",
+    "cover": "https://i.ytimg.com/vi/yGxHDmHoqXc/hqdefault.jpg"
+  },
+  {
+    "name": "Don't Speak",
+    "artist": "No Doubt",
+    "type": "youtube",
+    "videoId": "icGbqHxAXH0",
+    "cover": "https://i.ytimg.com/vi/icGbqHxAXH0/hqdefault.jpg"
+  },
+  {
+    "name": "Say My Name",
+    "artist": "Destiny's Child",
+    "type": "youtube",
+    "videoId": "zBaZuXrAUhg",
+    "cover": "https://i.ytimg.com/vi/zBaZuXrAUhg/hqdefault.jpg"
+  },
+  {
+    "name": "All That She Wants",
+    "artist": "Ace of Base",
+    "type": "youtube",
+    "videoId": "d73tiBBzvFM",
+    "cover": "https://i.ytimg.com/vi/d73tiBBzvFM/hqdefault.jpg"
+  },
+  {
+    "name": "Kiss of Life",
+    "artist": "Sade",
+    "type": "youtube",
+    "videoId": "uEcKk2U_U7A",
+    "cover": "https://i.ytimg.com/vi/uEcKk2U_U7A/hqdefault.jpg"
+  },
+  {
+    "name": "Rosas",
+    "artist": "La Oreja de Van Gogh",
+    "type": "youtube",
+    "videoId": "Vsc2ZqPLpxg",
+    "cover": "https://i.ytimg.com/vi/Vsc2ZqPLpxg/hqdefault.jpg"
+  },
+  {
+    "name": "Nothing Else Matters - Remastered 2021",
+    "artist": "Metallica",
+    "type": "youtube",
+    "videoId": "ozXZnwYTMbs",
+    "cover": "https://i.ytimg.com/vi/ozXZnwYTMbs/hqdefault.jpg"
+  },
+  {
+    "name": "Good Riddance (Time of Your Life)",
+    "artist": "Green Day",
+    "type": "youtube",
+    "videoId": "zwEyuzaNUTA",
+    "cover": "https://i.ytimg.com/vi/zwEyuzaNUTA/hqdefault.jpg"
+  },
+  {
+    "name": "Torn",
+    "artist": "Natalie Imbruglia",
+    "type": "youtube",
+    "videoId": "6JxmgHesJSU",
+    "cover": "https://i.ytimg.com/vi/6JxmgHesJSU/hqdefault.jpg"
+  },
+  {
+    "name": "Ye Ishq Hai",
+    "artist": "Pritam, Shreya Ghoshal, Irshad Kamil",
+    "type": "youtube",
+    "videoId": "eTbQMV1p6e4",
+    "cover": "https://i.ytimg.com/vi/eTbQMV1p6e4/hqdefault.jpg"
+  },
+  {
+    "name": "Tere Bina",
+    "artist": "A.R. Rahman, Chinmayi, Murtuza Khan, Qadir Khan",
+    "type": "youtube",
+    "videoId": "rm5-KhqwqeQ",
+    "cover": "https://i.ytimg.com/vi/rm5-KhqwqeQ/hqdefault.jpg"
+  },
+  {
+    "name": "Maahi",
+    "artist": "Shaarib Toshi, Toshi Sabri, Sayeed Quadri",
+    "type": "youtube",
+    "videoId": "GE3knikb8VM",
+    "cover": "https://i.ytimg.com/vi/GE3knikb8VM/hqdefault.jpg"
+  },
+  {
+    "name": "Mann Ki Lagan",
+    "artist": "Rahat Fateh Ali Khan",
+    "type": "youtube",
+    "videoId": "cFnzGMiyMSY",
+    "cover": "https://i.ytimg.com/vi/cFnzGMiyMSY/hqdefault.jpg"
+  },
+  {
+    "name": "Ajab Si",
+    "artist": "KK, Vishal-Shekhar, Vishal Dadlani",
+    "type": "youtube",
+    "videoId": "sSf0B5fy-2o",
+    "cover": "https://i.ytimg.com/vi/sSf0B5fy-2o/hqdefault.jpg"
+  },
+  {
+    "name": "Teri Ore",
+    "artist": "Pritam, Rahat Fateh Ali Khan, Shreya Ghoshal, Mayur Puri",
+    "type": "youtube",
+    "videoId": "CWfCp96-yck",
+    "cover": "https://i.ytimg.com/vi/CWfCp96-yck/hqdefault.jpg"
+  },
+  {
+    "name": "Zara Zara",
+    "artist": "Bombay Jayashri",
+    "type": "youtube",
+    "videoId": "HBm8DIO2aN4",
+    "cover": "https://i.ytimg.com/vi/HBm8DIO2aN4/hqdefault.jpg"
+  },
+  {
+    "name": "Mitwa",
+    "artist": "Shankar-Ehsaan-Loy, Shankar Mahadevan, Caralisa Monteiro, Shafqat Amanat Ali",
+    "type": "youtube",
+    "videoId": "Suv5QfWKaaw",
+    "cover": "https://i.ytimg.com/vi/Suv5QfWKaaw/hqdefault.jpg"
+  },
+  {
+    "name": "Ek Din Teri Raahon",
+    "artist": "Javed Ali, Pritam",
+    "type": "youtube",
+    "videoId": "HgLR1jfpECQ",
+    "cover": "https://i.ytimg.com/vi/HgLR1jfpECQ/hqdefault.jpg"
+  },
+  {
+    "name": "Guzarish",
+    "artist": "A.R. Rahman, Javed Ali, Prasoon Joshi",
+    "type": "youtube",
+    "videoId": "rU4qEtDXfnM",
+    "cover": "https://i.ytimg.com/vi/rU4qEtDXfnM/hqdefault.jpg"
+  },
+  {
+    "name": "Zara Sa",
+    "artist": "Pritam, KK, Sayeed Quadri",
+    "type": "youtube",
+    "videoId": "IN7E5WL29SE",
+    "cover": "https://i.ytimg.com/vi/IN7E5WL29SE/hqdefault.jpg"
+  },
+  {
+    "name": "Ucha Lamba Kad",
+    "artist": "Anand Raj Anand, Kalpana Patowary, Chorus",
+    "type": "youtube",
+    "videoId": "W1phFAihjS8",
+    "cover": "https://i.ytimg.com/vi/W1phFAihjS8/hqdefault.jpg"
+  },
+  {
+    "name": "O Re Piya",
+    "artist": "Salim–Sulaiman, Rahat Fateh Ali Khan, Jaideep Sahni",
+    "type": "youtube",
+    "videoId": "iv7lcUkFVSc",
+    "cover": "https://i.ytimg.com/vi/iv7lcUkFVSc/hqdefault.jpg"
+  },
+  {
+    "name": "Main Yahaan Hoon",
+    "artist": "Madan Mohan, Udit Narayan, Javed Akhtar",
+    "type": "youtube",
+    "videoId": "m6Y8xEfyXTs",
+    "cover": "https://i.ytimg.com/vi/m6Y8xEfyXTs/hqdefault.jpg"
+  },
+  {
+    "name": "Jo Bhi Kasmein",
+    "artist": "Nadeem Shravan, Alka Yagnik, Udit Narayan, Sameer Anjaan",
+    "type": "youtube",
+    "videoId": "2-wHMAa24G8",
+    "cover": "https://i.ytimg.com/vi/2-wHMAa24G8/hqdefault.jpg"
+  },
+  {
+    "name": "Tu Hi Haqeeqat",
+    "artist": "Pritam, Javed Ali, Irshan Ashraf, Shadab, Sayeed Quadri",
+    "type": "youtube",
+    "videoId": "k232IRh2tEE",
+    "cover": "https://i.ytimg.com/vi/k232IRh2tEE/hqdefault.jpg"
+  },
+  {
+    "name": "Kiya Kiya",
+    "artist": "Anand Raj Anand, Shweta Pandit",
+    "type": "youtube",
+    "videoId": "vjK02kjgDws",
+    "cover": "https://i.ytimg.com/vi/vjK02kjgDws/hqdefault.jpg"
+  },
+  {
+    "name": "Kabhi Kabhi Aditi",
+    "artist": "Rashid Ali",
+    "type": "youtube",
+    "videoId": "HQy5vYdwXGo",
+    "cover": "https://i.ytimg.com/vi/HQy5vYdwXGo/hqdefault.jpg"
+  },
+  {
+    "name": "Such Keh Raha Hai",
+    "artist": "KK",
+    "type": "youtube",
+    "videoId": "nya9D8kluE0",
+    "cover": "https://i.ytimg.com/vi/nya9D8kluE0/hqdefault.jpg"
+  },
+  {
+    "name": "Soni De Nakhre",
+    "artist": "Wajid, Labh Janjua, Sneha Pant, Sajid-Wajid, Shabbir Ahmed",
+    "type": "youtube",
+    "videoId": "kvBDSquAyu4",
+    "cover": "https://i.ytimg.com/vi/kvBDSquAyu4/hqdefault.jpg"
+  },
+  {
+    "name": "Tera Hone Laga Hoon",
+    "artist": "Pritam, Atif Aslam, Alisha Chinai",
+    "type": "youtube",
+    "videoId": "rTuxUAuJRyY",
+    "cover": "https://i.ytimg.com/vi/rTuxUAuJRyY/hqdefault.jpg"
+  },
+  {
+    "name": "Main Agar Saamne",
+    "artist": "Nadeem Shravan, Alka Yagnik, Abhijeet, Sameer Anjaan",
+    "type": "youtube",
+    "videoId": "hKdMHhhcVOg",
+    "cover": "https://i.ytimg.com/vi/hKdMHhhcVOg/hqdefault.jpg"
+  },
+  {
+    "name": "Haule Haule",
+    "artist": "Salim–Sulaiman, Sukhwinder Singh, Jaideep Sahni",
+    "type": "youtube",
+    "videoId": "efTcN1JRB5s",
+    "cover": "https://i.ytimg.com/vi/efTcN1JRB5s/hqdefault.jpg"
+  },
+  {
+    "name": "Falak Tak",
+    "artist": "Vishal-Shekhar, Udit Narayan, Mahalakshmi Iyer, Kausar Munir",
+    "type": "youtube",
+    "videoId": "xi5Jl0DwJnI",
+    "cover": "https://i.ytimg.com/vi/xi5Jl0DwJnI/hqdefault.jpg"
+  },
+  {
+    "name": "Beete Lamhein",
+    "artist": "KK, Mithoon, Sayeed Quadri",
+    "type": "youtube",
+    "videoId": "dkTok8ikw_4",
+    "cover": "https://i.ytimg.com/vi/dkTok8ikw_4/hqdefault.jpg"
+  },
+  {
+    "name": "Is This Love",
+    "artist": "Mohit Chauhan, Shreya Ghoshal, Pritam",
+    "type": "youtube",
+    "videoId": "ydWsfNb4GME",
+    "cover": "https://i.ytimg.com/vi/ydWsfNb4GME/hqdefault.jpg"
+  },
+  {
+    "name": "Aankhein Khuli",
+    "artist": "Jatin-Lalit, Lata Mangeshkar, Udit Narayan, Udbhav, Manohar Shetty, Ishaan, Shweta Pandit, Sonali Bhatawdekar, Pritha Mazumdar, Anand Bakshi",
+    "type": "youtube",
+    "videoId": "eM8Mjuq4MwQ",
+    "cover": "https://i.ytimg.com/vi/eM8Mjuq4MwQ/hqdefault.jpg"
+  },
+  {
+    "name": "Jab Se Tere Naina",
+    "artist": "Monty Sharma, Shaan",
+    "type": "youtube",
+    "videoId": "DUWXvnsSBSU",
+    "cover": "https://i.ytimg.com/vi/DUWXvnsSBSU/hqdefault.jpg"
+  },
+  {
+    "name": "Le Le Mazaa Le",
+    "artist": "Suzanne, Sowmya Raoh, Hrishikesh Kamerkar, Nikita Nigam, Sajid-Wajid, Wajid, Shabir Ahmad, Carlyta Mouhini",
+    "type": "youtube",
+    "videoId": "Q7kv9nuhTB8",
+    "cover": "https://i.ytimg.com/vi/Q7kv9nuhTB8/hqdefault.jpg"
+  },
+  {
+    "name": "Dil Laga Liya Maine",
+    "artist": "Nadeem Shravan, Alka Yagnik, Udit Narayan, Sameer Anjaan",
+    "type": "youtube",
+    "videoId": "A1wZUXY--4U",
+    "cover": "https://i.ytimg.com/vi/A1wZUXY--4U/hqdefault.jpg"
+  },
+  {
+    "name": "Jashn-E-Bahaaraa",
+    "artist": "A.R. Rahman, Javed Ali",
+    "type": "youtube",
+    "videoId": "cr4Tz4JEP40",
+    "cover": "https://i.ytimg.com/vi/cr4Tz4JEP40/hqdefault.jpg"
+  },
+  {
+    "name": "Jhalak Dikhla Ja",
+    "artist": "Himesh Reshammiya",
+    "type": "youtube",
+    "videoId": "FwZWiv8IkgU",
+    "cover": "https://i.ytimg.com/vi/FwZWiv8IkgU/hqdefault.jpg"
+  },
+  {
+    "name": "Dil De Diya Hai",
+    "artist": "Anand Raj Anand",
+    "type": "youtube",
+    "videoId": "vRh1bnbZt4M",
+    "cover": "https://i.ytimg.com/vi/vRh1bnbZt4M/hqdefault.jpg"
+  },
+  {
+    "name": "Pehli Nazar Mein",
+    "artist": "Atif Aslam, Pritam",
+    "type": "youtube",
+    "videoId": "ShJ8IZ0YK6g",
+    "cover": "https://i.ytimg.com/vi/ShJ8IZ0YK6g/hqdefault.jpg"
+  },
+  {
+    "name": "Masakali",
+    "artist": "Mohit Chauhan, A.R. Rahman, Prasoon Joshi",
+    "type": "youtube",
+    "videoId": "YGwE90xQ7NE",
+    "cover": "https://i.ytimg.com/vi/YGwE90xQ7NE/hqdefault.jpg"
+  },
+  {
+    "name": "Hum Pyaar Hai Tumhare",
+    "artist": "Kumar Sanu, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "0OLJaYETWoA",
+    "cover": "https://i.ytimg.com/vi/0OLJaYETWoA/hqdefault.jpg"
+  },
+  {
+    "name": "Kajra Re",
+    "artist": "Shankar-Ehsaan-Loy, Alisha Chinai, Shankar Mahadevan, Javed Ali, Gulzar",
+    "type": "youtube",
+    "videoId": "4dsFQFCvVGU",
+    "cover": "https://i.ytimg.com/vi/4dsFQFCvVGU/hqdefault.jpg"
+  },
+  {
+    "name": "Dil Ke Badle Sanam",
+    "artist": "Udit Narayan, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "B8EV8er2WRE",
+    "cover": "https://i.ytimg.com/vi/B8EV8er2WRE/hqdefault.jpg"
+  },
+  {
+    "name": "Woh Ladki Hai Kahan",
+    "artist": "Shaan, Kavita Krishnamurthy",
+    "type": "youtube",
+    "videoId": "LFTV1zLv9B4",
+    "cover": "https://i.ytimg.com/vi/LFTV1zLv9B4/hqdefault.jpg"
+  },
+  {
+    "name": "Kitni Bechain Hoke",
+    "artist": "Alka Yagnik, Udit Narayan",
+    "type": "youtube",
+    "videoId": "O4eqI7UQcos",
+    "cover": "https://i.ytimg.com/vi/O4eqI7UQcos/hqdefault.jpg"
+  },
+  {
+    "name": "Mere Haath Mein",
+    "artist": "Jatin-Lalit, Sonu Nigam, Sunidhi Chauhan, Aamir Khan, Kajol, Prasoon Joshi",
+    "type": "youtube",
+    "videoId": "qtz5mpvgAM0",
+    "cover": "https://i.ytimg.com/vi/qtz5mpvgAM0/hqdefault.jpg"
+  },
+  {
+    "name": "Kal Ho Naa Ho",
+    "artist": "Shankar-Ehsaan-Loy, Sonu Nigam",
+    "type": "youtube",
+    "videoId": "fyJvsb2cQy8",
+    "cover": "https://i.ytimg.com/vi/fyJvsb2cQy8/hqdefault.jpg"
+  },
+  {
+    "name": "Dil Dooba",
+    "artist": "Sonu Nigam, Shreya Ghoshal",
+    "type": "youtube",
+    "videoId": "uvgSn_tWTtY",
+    "cover": "https://i.ytimg.com/vi/uvgSn_tWTtY/hqdefault.jpg"
+  },
+  {
+    "name": "Tera Chehra",
+    "artist": "Adnan Sami",
+    "type": "youtube",
+    "videoId": "zNUs54J3mKo",
+    "cover": "https://i.ytimg.com/vi/zNUs54J3mKo/hqdefault.jpg"
+  },
+  {
+    "name": "You're My Love",
+    "artist": "Shaan, Shweta Pandit, Suzi Q, Earl Edgar, Sajid-Wajid, Shabbir Ahmed",
+    "type": "youtube",
+    "videoId": "dBUxfFoQpuo",
+    "cover": "https://i.ytimg.com/vi/dBUxfFoQpuo/hqdefault.jpg"
+  },
+  {
+    "name": "Bole Chudiyan",
+    "artist": "Jatin-Lalit, Amit Kumar, Sonu Nigam, Alka Yagnik, Udit Narayan, Kavita Krishnamurthy",
+    "type": "youtube",
+    "videoId": "cfi2Trletjw",
+    "cover": "https://i.ytimg.com/vi/cfi2Trletjw/hqdefault.jpg"
+  },
+  {
+    "name": "Dard - E - Disco",
+    "artist": "Sukhwinder Singh, Marianne, Nisha, Caralisa Monteiro, Vishal-Shekhar, Javed Akhtar",
+    "type": "youtube",
+    "videoId": "khlR5jM2ZrI",
+    "cover": "https://i.ytimg.com/vi/khlR5jM2ZrI/hqdefault.jpg"
+  },
+  {
+    "name": "Tumse Milke Dil Ka",
+    "artist": "Sonu Nigam, Sabri Brothers",
+    "type": "youtube",
+    "videoId": "xteZNX3B4yA",
+    "cover": "https://i.ytimg.com/vi/xteZNX3B4yA/hqdefault.jpg"
+  },
+  {
+    "name": "Tere Liye",
+    "artist": "Madan Mohan, Lata Mangeshkar, Roop Kumar Rathod, Javed Akhtar",
+    "type": "youtube",
+    "videoId": "nOZ3M1O0Wbg",
+    "cover": "https://i.ytimg.com/vi/nOZ3M1O0Wbg/hqdefault.jpg"
+  },
+  {
+    "name": "Barso Re",
+    "artist": "A.R. Rahman, Shreya Ghoshal, Uday Mazumdar",
+    "type": "youtube",
+    "videoId": "aSLUv83LGTQ",
+    "cover": "https://i.ytimg.com/vi/aSLUv83LGTQ/hqdefault.jpg"
+  },
+  {
+    "name": "Dus Bahane",
+    "artist": "Vishal-Shekhar, Shaan, KK",
+    "type": "youtube",
+    "videoId": "qE3DfF66DNA",
+    "cover": "https://i.ytimg.com/vi/qE3DfF66DNA/hqdefault.jpg"
+  },
+  {
+    "name": "Soniye",
+    "artist": "KK, Sunidhi Chauhan",
+    "type": "youtube",
+    "videoId": "Ml-wGWvOrq4",
+    "cover": "https://i.ytimg.com/vi/Ml-wGWvOrq4/hqdefault.jpg"
+  },
+  {
+    "name": "Hum Tum",
+    "artist": "Jatin-Lalit, Alka Yagnik, Babul Supriyo, Prasoon Joshi",
+    "type": "youtube",
+    "videoId": "CuNvY5_WgxQ",
+    "cover": "https://i.ytimg.com/vi/CuNvY5_WgxQ/hqdefault.jpg"
+  },
+  {
+    "name": "Dil Ne Yeh Kaha Hain Dil Se",
+    "artist": "Udit Narayan, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "dKLpCMfxB5U",
+    "cover": "https://i.ytimg.com/vi/dKLpCMfxB5U/hqdefault.jpg"
+  },
+  {
+    "name": "Zara Zara Touch Me",
+    "artist": "Monali Thakur, Earl Edgar, Pritam",
+    "type": "youtube",
+    "videoId": "K9XxmYsyQZE",
+    "cover": "https://i.ytimg.com/vi/K9XxmYsyQZE/hqdefault.jpg"
+  },
+  {
+    "name": "Desi Girl",
+    "artist": "Vishal-Shekhar, Shankar Mahadevan, Sunidhi Chauhan, Vishal Dadlani",
+    "type": "youtube",
+    "videoId": "f7O1i113leU",
+    "cover": "https://i.ytimg.com/vi/f7O1i113leU/hqdefault.jpg"
+  },
+  {
+    "name": "Kaise Mujhe",
+    "artist": "A.R. Rahman, Benny Dayal, Shreya Ghoshal, Prasoon Joshi",
+    "type": "youtube",
+    "videoId": "uC1iJcYOyeY",
+    "cover": "https://i.ytimg.com/vi/uC1iJcYOyeY/hqdefault.jpg"
+  },
+  {
+    "name": "Radha Kaise Na Jale",
+    "artist": "Asha Bhosle, Udit Narayan, Vaishali Samant, A.R. Rahman",
+    "type": "youtube",
+    "videoId": "qNnvL0ztJhA",
+    "cover": "https://i.ytimg.com/vi/qNnvL0ztJhA/hqdefault.jpg"
+  },
+  {
+    "name": "Maahi Ve",
+    "artist": "Shankar-Ehsaan-Loy, Sadhana Sargam, Sujata Bhattacharya, Udit Narayan, Sonu Nigam",
+    "type": "youtube",
+    "videoId": "VudHUqt17us",
+    "cover": "https://i.ytimg.com/vi/VudHUqt17us/hqdefault.jpg"
+  },
+  {
+    "name": "Hoth Rasiley",
+    "artist": "Anand Raj Anand, Shankar Mahadevan, Shreya Ghoshal",
+    "type": "youtube",
+    "videoId": "lRXSvebugks",
+    "cover": "https://i.ytimg.com/vi/lRXSvebugks/hqdefault.jpg"
+  },
+  {
+    "name": "Tu Meri Dost Hain",
+    "artist": "Benny Dayal, Shreya Ghoshal",
+    "type": "youtube",
+    "videoId": "O5zhCBCW9Aw",
+    "cover": "https://i.ytimg.com/vi/O5zhCBCW9Aw/hqdefault.jpg"
+  },
+  {
+    "name": "Chhaliya",
+    "artist": "Vishal-Shekhar, Sunidhi Chauhan, Piyush Mishra, Anvita Dutt Guptan",
+    "type": "youtube",
+    "videoId": "YPpOqfIQ5ME",
+    "cover": "https://i.ytimg.com/vi/YPpOqfIQ5ME/hqdefault.jpg"
+  },
+  {
+    "name": "You Are My Soniya",
+    "artist": "Sandesh Shandilya, Sonu Nigam, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "2qBWL5Fplu0",
+    "cover": "https://i.ytimg.com/vi/2qBWL5Fplu0/hqdefault.jpg"
+  },
+  {
+    "name": "Chhoti Chhoti Raatein",
+    "artist": "Sonu Nigam, Anuradha Paudwal",
+    "type": "youtube",
+    "videoId": "M3rEuFpXCds",
+    "cover": "https://i.ytimg.com/vi/M3rEuFpXCds/hqdefault.jpg"
+  },
+  {
+    "name": "Suna Suna",
+    "artist": "Shreya Ghoshal",
+    "type": "youtube",
+    "videoId": "NCvOzlvW2EA",
+    "cover": "https://i.ytimg.com/vi/NCvOzlvW2EA/hqdefault.jpg"
+  },
+  {
+    "name": "Gela Gela Gela",
+    "artist": "Adnan Sami, Sunidhi Chauhan, Himesh Reshammiya, Sameer Anjaan",
+    "type": "youtube",
+    "videoId": "hRp_OjYw-Qc",
+    "cover": "https://i.ytimg.com/vi/hRp_OjYw-Qc/hqdefault.jpg"
+  },
+  {
+    "name": "Aahista Aahista",
+    "artist": "Vishal-Shekhar, Lucky Ali, Shreya Ghoshal, Anvita Dutt Guptan",
+    "type": "youtube",
+    "videoId": "e43dXH7y8GU",
+    "cover": "https://i.ytimg.com/vi/e43dXH7y8GU/hqdefault.jpg"
+  },
+  {
+    "name": "Kuchh Khaas",
+    "artist": "Mohit Chauhan, Neha Bhasin",
+    "type": "youtube",
+    "videoId": "O7tvHh3MPSs",
+    "cover": "https://i.ytimg.com/vi/O7tvHh3MPSs/hqdefault.jpg"
+  },
+  {
+    "name": "Deewangi Deewangi",
+    "artist": "Shaan, Udit Narayan, Shreya Ghoshal, Sunidhi Chauhan, Rahul Saxena, Vishal-Shekhar, Javed Akhtar",
+    "type": "youtube",
+    "videoId": "VzLG6OqOcn8",
+    "cover": "https://i.ytimg.com/vi/VzLG6OqOcn8/hqdefault.jpg"
+  },
+  {
+    "name": "Bhage Re Mann",
+    "artist": "Sunidhi Chauhan",
+    "type": "youtube",
+    "videoId": "dcf1M6gg3YE",
+    "cover": "https://i.ytimg.com/vi/dcf1M6gg3YE/hqdefault.jpg"
+  },
+  {
+    "name": "Tainu Leke",
+    "artist": "Sonu Nigam, Mahalakshmi Iyer",
+    "type": "youtube",
+    "videoId": "Cu3QpWEfqgg",
+    "cover": "https://i.ytimg.com/vi/Cu3QpWEfqgg/hqdefault.jpg"
+  },
+  {
+    "name": "Oodhni",
+    "artist": "Udit Narayan, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "x1liId8imhw",
+    "cover": "https://i.ytimg.com/vi/x1liId8imhw/hqdefault.jpg"
+  },
+  {
+    "name": "Love Me Love Me",
+    "artist": "Wajid, Amrita Kak, Sajid-Wajid, Jalees Sherwani",
+    "type": "youtube",
+    "videoId": "bGNmNNZAU7c",
+    "cover": "https://i.ytimg.com/vi/bGNmNNZAU7c/hqdefault.jpg"
+  },
+  {
+    "name": "Dil Dil Nazar",
+    "artist": "Shaan, Neeraj, Shaznine",
+    "type": "youtube",
+    "videoId": "UuLNftlHk8k",
+    "cover": "https://i.ytimg.com/vi/UuLNftlHk8k/hqdefault.jpg"
+  },
+  {
+    "name": "Aaja Nachle",
+    "artist": "Salim–Sulaiman, Sunidhi Chauhan, Piyush Mishra",
+    "type": "youtube",
+    "videoId": "8ljlqNpJWZs",
+    "cover": "https://i.ytimg.com/vi/8ljlqNpJWZs/hqdefault.jpg"
+  },
+  {
+    "name": "Mujhse Shaadi Karogi",
+    "artist": "Sonu Nigam, Udit Narayan, Sunidhi Chauhan",
+    "type": "youtube",
+    "videoId": "n7MjuaR7ZlI",
+    "cover": "https://i.ytimg.com/vi/n7MjuaR7ZlI/hqdefault.jpg"
+  },
+  {
+    "name": "Paisa",
+    "artist": "Manak-E, Selina, R.D.B.",
+    "type": "youtube",
+    "videoId": "Z5_T0hTU7fE",
+    "cover": "https://i.ytimg.com/vi/Z5_T0hTU7fE/hqdefault.jpg"
+  },
+  {
+    "name": "Kola Laka Vellari",
+    "artist": "Himesh Reshammiya",
+    "type": "youtube",
+    "videoId": "B8RbBTyDr7I",
+    "cover": "https://i.ytimg.com/vi/B8RbBTyDr7I/hqdefault.jpg"
+  },
+  {
+    "name": "Chalte Chalte",
+    "artist": "Jatin-Lalit, Udbhav, Manohar Shetty, Ishaan, Shweta Pandit, Sonali Bhatawdekar, Pritha Mazumdar, Anand Bakshi",
+    "type": "youtube",
+    "videoId": "kzTWRX9Dhrg",
+    "cover": "https://i.ytimg.com/vi/kzTWRX9Dhrg/hqdefault.jpg"
+  },
+  {
+    "name": "Koi Kahe Kehta Rahe",
+    "artist": "Shankar Mahadevan, Shaan, KK",
+    "type": "youtube",
+    "videoId": "CjEQBht8E3g",
+    "cover": "https://i.ytimg.com/vi/CjEQBht8E3g/hqdefault.jpg"
+  },
+  {
+    "name": "Tauba Tumhare Ishare",
+    "artist": "Abhijeet, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "hVa2ldy1LrE",
+    "cover": "https://i.ytimg.com/vi/hVa2ldy1LrE/hqdefault.jpg"
+  },
+  {
+    "name": "Pretty Woman",
+    "artist": "Shankar-Ehsaan-Loy, Shankar Mahadevan, Ravi \"Rags\" Khote",
+    "type": "youtube",
+    "videoId": "2xOBpf8jH7I",
+    "cover": "https://i.ytimg.com/vi/2xOBpf8jH7I/hqdefault.jpg"
+  },
+  {
+    "name": "Chori Chori",
+    "artist": "Alka Yagnik, Sonu Nigam",
+    "type": "youtube",
+    "videoId": "eM-6msYmjmM",
+    "cover": "https://i.ytimg.com/vi/eM-6msYmjmM/hqdefault.jpg"
+  },
+  {
+    "name": "Aashiqui Mein Teri",
+    "artist": "Himesh Reshammiya, Sunidhi Chauhan",
+    "type": "youtube",
+    "videoId": "BM9nIlQBRsg",
+    "cover": "https://i.ytimg.com/vi/BM9nIlQBRsg/hqdefault.jpg"
+  },
+  {
+    "name": "Dhan Te Nan",
+    "artist": "Sukhwinder Singh, Vishal Dadlani, Robert Bob Omulo",
+    "type": "youtube",
+    "videoId": "AKF2whlGnr4",
+    "cover": "https://i.ytimg.com/vi/AKF2whlGnr4/hqdefault.jpg"
+  },
+  {
+    "name": "Suno Na Suno Na",
+    "artist": "Abhijeet",
+    "type": "youtube",
+    "videoId": "5tpBbrtu7yU",
+    "cover": "https://i.ytimg.com/vi/5tpBbrtu7yU/hqdefault.jpg"
+  },
+  {
+    "name": "Aaj Ki Raat",
+    "artist": "Alisha Chinai, Mahalakshmi Iyer, Sonu Nigam",
+    "type": "youtube",
+    "videoId": "5ArBAojc-K4",
+    "cover": "https://i.ytimg.com/vi/5ArBAojc-K4/hqdefault.jpg"
+  },
+  {
+    "name": "Dil Keh Reha Ha",
+    "artist": "Kunal Ganjawala",
+    "type": "youtube",
+    "videoId": "8XSfZzbXq2Y",
+    "cover": "https://i.ytimg.com/vi/8XSfZzbXq2Y/hqdefault.jpg"
+  },
+  {
+    "name": "Right Here Right Now",
+    "artist": "Abhishek Bachchan, Sunidhi Chauhan, Vishal-Shekhar",
+    "type": "youtube",
+    "videoId": "cwDWMhd4ofk",
+    "cover": "https://i.ytimg.com/vi/cwDWMhd4ofk/hqdefault.jpg"
+  },
+  {
+    "name": "Banthan Ke",
+    "artist": "Sukhwinder Singh, Sunidhi Chauhan",
+    "type": "youtube",
+    "videoId": "uFnOk5cft48",
+    "cover": "https://i.ytimg.com/vi/uFnOk5cft48/hqdefault.jpg"
+  },
+  {
+    "name": "Deewana Hai Dekho",
+    "artist": "Sandesh Shandilya, Alka Yagnik, Sonu Nigam, Kareena Kapoor",
+    "type": "youtube",
+    "videoId": "zNHUBXr0rlY",
+    "cover": "https://i.ytimg.com/vi/zNHUBXr0rlY/hqdefault.jpg"
+  },
+  {
+    "name": "Maine Dil Se Kaha",
+    "artist": "KK, Neelesh Misra",
+    "type": "youtube",
+    "videoId": "7r1dlTJFaBM",
+    "cover": "https://i.ytimg.com/vi/7r1dlTJFaBM/hqdefault.jpg"
+  },
+  {
+    "name": "Saajan Saajan",
+    "artist": "Nadeem Shravan, Alka Yagnik, Sapna Awasthi, Kumar Sanu, Sameer Anjaan",
+    "type": "youtube",
+    "videoId": "oGBsnknVJ20",
+    "cover": "https://i.ytimg.com/vi/oGBsnknVJ20/hqdefault.jpg"
+  },
+  {
+    "name": "Dil Mein Baji Guitar",
+    "artist": "Mika Singh, Pritam",
+    "type": "youtube",
+    "videoId": "M3wlRCwxgjs",
+    "cover": "https://i.ytimg.com/vi/M3wlRCwxgjs/hqdefault.jpg"
+  },
+  {
+    "name": "Aai Paapi",
+    "artist": "Neeraj Shridhar, Pritam",
+    "type": "youtube",
+    "videoId": "ZncrLwJooA8",
+    "cover": "https://i.ytimg.com/vi/ZncrLwJooA8/hqdefault.jpg"
+  },
+  {
+    "name": "Mehbooba Mehbooba",
+    "artist": "Adnan Sami, Sunidhi Chauhan",
+    "type": "youtube",
+    "videoId": "xWEnpP3iuVI",
+    "cover": "https://i.ytimg.com/vi/xWEnpP3iuVI/hqdefault.jpg"
+  },
+  {
+    "name": "Chale Jaise Hawaien",
+    "artist": "KK, Vasundhara Das",
+    "type": "youtube",
+    "videoId": "UJ-MT8ZnUxY",
+    "cover": "https://i.ytimg.com/vi/UJ-MT8ZnUxY/hqdefault.jpg"
+  },
+  {
+    "name": "Yun Hi Chala Chal",
+    "artist": "Udit Narayan, Hariharan, Kailash Kher",
+    "type": "youtube",
+    "videoId": "eEeX2QMlSlo",
+    "cover": "https://i.ytimg.com/vi/eEeX2QMlSlo/hqdefault.jpg"
+  },
+  {
+    "name": "Kay Sera Sera",
+    "artist": "Shankar Mahadevan, Kavita Krishnamurthy",
+    "type": "youtube",
+    "videoId": "26FiBh0lVUE",
+    "cover": "https://i.ytimg.com/vi/26FiBh0lVUE/hqdefault.jpg"
+  },
+  {
+    "name": "Aaja Mahiya",
+    "artist": "Anu Malik, Udit Narayan, Alka Yagnik, Prasanta A Samadhar, Gulzar",
+    "type": "youtube",
+    "videoId": "I-m4cX22UlQ",
+    "cover": "https://i.ytimg.com/vi/I-m4cX22UlQ/hqdefault.jpg"
+  },
+  {
+    "name": "Choli Ke Peeche",
+    "artist": "Alka Yagnik, Ila Arun",
+    "type": "youtube",
+    "videoId": "teCIQnIZXYw",
+    "cover": "https://i.ytimg.com/vi/teCIQnIZXYw/hqdefault.jpg"
+  },
+  {
+    "name": "Too Cheez Badi Hain",
+    "artist": "Udit Narayan, Kavita Krishnamurthy",
+    "type": "youtube",
+    "videoId": "PufJm6BV8g4",
+    "cover": "https://i.ytimg.com/vi/PufJm6BV8g4/hqdefault.jpg"
+  },
+  {
+    "name": "Channe Ke Khet Mein",
+    "artist": "Anand-Milind, Poornima",
+    "type": "youtube",
+    "videoId": "3gaFG_TbZJM",
+    "cover": "https://i.ytimg.com/vi/3gaFG_TbZJM/hqdefault.jpg"
+  },
+  {
+    "name": "Ye Kaali Kaali Aankhen",
+    "artist": "Kumar Sanu, Anu Malik",
+    "type": "youtube",
+    "videoId": "oA3U9mv9yBw",
+    "cover": "https://i.ytimg.com/vi/oA3U9mv9yBw/hqdefault.jpg"
+  },
+  {
+    "name": "Dilbar Dilbar",
+    "artist": "Alka Yagnik",
+    "type": "youtube",
+    "videoId": "8HFuv7hmX08",
+    "cover": "https://i.ytimg.com/vi/8HFuv7hmX08/hqdefault.jpg"
+  },
+  {
+    "name": "Akhiyaan Milaoon Kabhi",
+    "artist": "Alka Yagnik, Udit Narayan",
+    "type": "youtube",
+    "videoId": "QmEWg3P1GUQ",
+    "cover": "https://i.ytimg.com/vi/QmEWg3P1GUQ/hqdefault.jpg"
+  },
+  {
+    "name": "Husn Hai Suhana",
+    "artist": "Anand-Milind, Chandana Dixit, Abhijeet, Sameer Anjaan",
+    "type": "youtube",
+    "videoId": "svZPpCAxTQM",
+    "cover": "https://i.ytimg.com/vi/svZPpCAxTQM/hqdefault.jpg"
+  },
+  {
+    "name": "Chamma Chamma Baaje Re",
+    "artist": "Alka Yagnik, Vinod Rathod, Shankar Mahadevan, Anu Malik, Sameer Anjaan",
+    "type": "youtube",
+    "videoId": "JYJ1ZN_7sOk",
+    "cover": "https://i.ytimg.com/vi/JYJ1ZN_7sOk/hqdefault.jpg"
+  },
+  {
+    "name": "Jhanjharia - Male Version",
+    "artist": "Anu Malik, Abhijeet, Anand Raj Anand",
+    "type": "youtube",
+    "videoId": "6C34aCdjJtM",
+    "cover": "https://i.ytimg.com/vi/6C34aCdjJtM/hqdefault.jpg"
+  },
+  {
+    "name": "Kisi Disco Mein Jaaye",
+    "artist": "Alka Yagnik, Udit Narayan",
+    "type": "youtube",
+    "videoId": "hxL3iejtkx0",
+    "cover": "https://i.ytimg.com/vi/hxL3iejtkx0/hqdefault.jpg"
+  },
+  {
+    "name": "Ankhiyon Se Goli Maare",
+    "artist": "Sonu Nigam, Jaspinder Narula",
+    "type": "youtube",
+    "videoId": "rY_0SOlmrdY",
+    "cover": "https://i.ytimg.com/vi/rY_0SOlmrdY/hqdefault.jpg"
+  },
+  {
+    "name": "Chunnari Chunnari",
+    "artist": "Anu Malik, Anuradha Sriram, Abhijeet, Sameer Anjaan",
+    "type": "youtube",
+    "videoId": "yRSnWywoAD4",
+    "cover": "https://i.ytimg.com/vi/yRSnWywoAD4/hqdefault.jpg"
+  },
+  {
+    "name": "Neend Churayee Meri",
+    "artist": "Anu Malik, Kumar Sanu, Udit Narayan, Alka Yagnik, Kavita Krishnamurthy",
+    "type": "youtube",
+    "videoId": "GFA9-iGOpO0",
+    "cover": "https://i.ytimg.com/vi/GFA9-iGOpO0/hqdefault.jpg"
+  },
+  {
+    "name": "Jaanam Samjha Karo",
+    "artist": "Anu Malik, Hema Sardesai",
+    "type": "youtube",
+    "videoId": "UXNQzK413GM",
+    "cover": "https://i.ytimg.com/vi/UXNQzK413GM/hqdefault.jpg"
+  },
+  {
+    "name": "Duniya Haseenon Ka Mela",
+    "artist": "Udit Narayan, Sunita Rao",
+    "type": "youtube",
+    "videoId": "REo4bJUjG-I",
+    "cover": "https://i.ytimg.com/vi/REo4bJUjG-I/hqdefault.jpg"
+  },
+  {
+    "name": "Gore Gore Mukhde Pe",
+    "artist": "Udit Narayan, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "sRoWL8EZ3k8",
+    "cover": "https://i.ytimg.com/vi/sRoWL8EZ3k8/hqdefault.jpg"
+  },
+  {
+    "name": "Makhna",
+    "artist": "Alka Yagnik, Amit Kumar, Udit Narayan",
+    "type": "youtube",
+    "videoId": "INlPcn8XduM",
+    "cover": "https://i.ytimg.com/vi/INlPcn8XduM/hqdefault.jpg"
+  },
+  {
+    "name": "Sapne Mein",
+    "artist": "Asha Bhosle, Suresh Wadkar",
+    "type": "youtube",
+    "videoId": "TlCYhQpy_GY",
+    "cover": "https://i.ytimg.com/vi/TlCYhQpy_GY/hqdefault.jpg"
+  },
+  {
+    "name": "O Lal Dupatte Wali",
+    "artist": "Kumar Sanu, Sudesh Bhosle, Kavita Krishnamurthy",
+    "type": "youtube",
+    "videoId": "KsoQzS0B-go",
+    "cover": "https://i.ytimg.com/vi/KsoQzS0B-go/hqdefault.jpg"
+  },
+  {
+    "name": "Main Khiladi Tu Anari",
+    "artist": "Abhijeet, Udit Narayan, Anu Malik",
+    "type": "youtube",
+    "videoId": "G4j8WSaY75Q",
+    "cover": "https://i.ytimg.com/vi/G4j8WSaY75Q/hqdefault.jpg"
+  },
+  {
+    "name": "Too Shayar Hai Main Teri Shayari",
+    "artist": "Alka Yagnik",
+    "type": "youtube",
+    "videoId": "rTGSWaD-2Lg",
+    "cover": "https://i.ytimg.com/vi/rTGSWaD-2Lg/hqdefault.jpg"
+  },
+  {
+    "name": "Mera Piya Ghar Aaya",
+    "artist": "Kavita Krishnamurthy",
+    "type": "youtube",
+    "videoId": "75kdD3su54g",
+    "cover": "https://i.ytimg.com/vi/75kdD3su54g/hqdefault.jpg"
+  },
+  {
+    "name": "Saat Samundar Paar, Pt. 1",
+    "artist": "Sadhana Sargam",
+    "type": "youtube",
+    "videoId": "7TManB-eG_g",
+    "cover": "https://i.ytimg.com/vi/7TManB-eG_g/hqdefault.jpg"
+  },
+  {
+    "name": "Sochenge Tumhe Pyar",
+    "artist": "Kumar Sanu",
+    "type": "youtube",
+    "videoId": "x5eYr7voNiY",
+    "cover": "https://i.ytimg.com/vi/x5eYr7voNiY/hqdefault.jpg"
+  },
+  {
+    "name": "O O Jaane Jaana",
+    "artist": "Kamaal Khan",
+    "type": "youtube",
+    "videoId": "JtAp4GnkMbE",
+    "cover": "https://i.ytimg.com/vi/JtAp4GnkMbE/hqdefault.jpg"
+  },
+  {
+    "name": "Ole Ole",
+    "artist": "Dilip Sen- Sameer Sen, Abhijeet, Sameer Anjaan",
+    "type": "youtube",
+    "videoId": "-ytH2pHXq_I",
+    "cover": "https://i.ytimg.com/vi/-ytH2pHXq_I/hqdefault.jpg"
+  },
+  {
+    "name": "Zara Sa Jhoom Loon Main",
+    "artist": "Asha Bhosle, Abhijeet",
+    "type": "youtube",
+    "videoId": "AnXMCxSYTvQ",
+    "cover": "https://i.ytimg.com/vi/AnXMCxSYTvQ/hqdefault.jpg"
+  },
+  {
+    "name": "Kagaz Kalam Davaat",
+    "artist": "Mohammed Aziz, Shobha Joshi, Laxmikant–Pyarelal",
+    "type": "youtube",
+    "videoId": "PGUmE6svRlM",
+    "cover": "https://i.ytimg.com/vi/PGUmE6svRlM/hqdefault.jpg"
+  },
+  {
+    "name": "Jooma Chumma De De",
+    "artist": "Sudesh Bhosle, Kavita Krishnamurthy, Laxmikant–Pyarelal",
+    "type": "youtube",
+    "videoId": "sfDNKZ4SGyM",
+    "cover": "https://i.ytimg.com/vi/sfDNKZ4SGyM/hqdefault.jpg"
+  },
+  {
+    "name": "Tera Rang Balle Balle",
+    "artist": "Jaspinder Narula, Sonu Nigam",
+    "type": "youtube",
+    "videoId": "b7QS4Amwj7g",
+    "cover": "https://i.ytimg.com/vi/b7QS4Amwj7g/hqdefault.jpg"
+  },
+  {
+    "name": "Koi Jaye To Le Aaye",
+    "artist": "Alka Yagnik, Shankar Mahadevan, Anu Malik",
+    "type": "youtube",
+    "videoId": "nbp7OwK-6lU",
+    "cover": "https://i.ytimg.com/vi/nbp7OwK-6lU/hqdefault.jpg"
+  },
+  {
+    "name": "Dil Jigar Nazar Kya Hai",
+    "artist": "Kumar Sanu",
+    "type": "youtube",
+    "videoId": "dxjh-N_GDt4",
+    "cover": "https://i.ytimg.com/vi/dxjh-N_GDt4/hqdefault.jpg"
+  },
+  {
+    "name": "Hai Hukku Hai Hukku Hai Hai",
+    "artist": "Anand-Milind, Kumar Sanu, Poornima, Sameer Anjaan",
+    "type": "youtube",
+    "videoId": "o7P4XtQrC0o",
+    "cover": "https://i.ytimg.com/vi/o7P4XtQrC0o/hqdefault.jpg"
+  },
+  {
+    "name": "Shahar Ki Ladki",
+    "artist": "Abhijeet, Chandra Dixit",
+    "type": "youtube",
+    "videoId": "wBCR0WVVLBg",
+    "cover": "https://i.ytimg.com/vi/wBCR0WVVLBg/hqdefault.jpg"
+  },
+  {
+    "name": "O Baby Dont Break My Heart",
+    "artist": "Abhijeet, K Krishnamoorthy",
+    "type": "youtube",
+    "videoId": "ZFXfQkRvUXk",
+    "cover": "https://i.ytimg.com/vi/ZFXfQkRvUXk/hqdefault.jpg"
+  },
+  {
+    "name": "Ooee Baba",
+    "artist": "Alka Yagnik, Abhijeet, Sapna Mukherjee",
+    "type": "youtube",
+    "videoId": "qjGs45LJS1o",
+    "cover": "https://i.ytimg.com/vi/qjGs45LJS1o/hqdefault.jpg"
+  },
+  {
+    "name": "Taal Se Taal - Western Version",
+    "artist": "Sukhwinder Singh",
+    "type": "youtube",
+    "videoId": "3MMYNM3ITFY",
+    "cover": "https://i.ytimg.com/vi/3MMYNM3ITFY/hqdefault.jpg"
+  },
+  {
     "name": "Chaiyya Chaiyya",
-    "artist": "A.R. Rahman, Sukhwinder Singh",
+    "artist": "Sukhwinder Singh, Sapna Awasthi",
     "type": "youtube",
-    "videoId": "PQmrmVs10X8"
+    "videoId": "9MX-QejdVaQ",
+    "cover": "https://i.ytimg.com/vi/9MX-QejdVaQ/hqdefault.jpg"
   },
   {
-    "name": "Ram Jaane Title Track",
-    "artist": "Red Chillies Entertainment",
+    "name": "Tan Tana Tan Tan",
+    "artist": "Abhijeet, Poornima",
     "type": "youtube",
-    "videoId": "Xi6BjmipH58"
+    "videoId": "Gk7brTnVbkY",
+    "cover": "https://i.ytimg.com/vi/Gk7brTnVbkY/hqdefault.jpg"
   },
   {
-    "name": "Hum Saath Saath Hain - Bollywood Wedding Song",
-    "artist": "Rajshri",
+    "name": "Ghoongte Mein Chanda",
+    "artist": "Udit Narayan",
     "type": "youtube",
-    "videoId": "caEfgyFv4SM"
+    "videoId": "5aGdSAuRM7A",
+    "cover": "https://i.ytimg.com/vi/5aGdSAuRM7A/hqdefault.jpg"
   },
   {
-    "name": "Dil Ki Tanhai Ko",
-    "artist": "Red Chillies Entertainment",
+    "name": "Muqabala Muqabala",
+    "artist": "Mano, Swarnalatha",
     "type": "youtube",
-    "videoId": "8mweiZlvxsE"
+    "videoId": "pe1lmH5Kqb4",
+    "cover": "https://i.ytimg.com/vi/pe1lmH5Kqb4/hqdefault.jpg"
+  },
+  {
+    "name": "Bhangda Paale",
+    "artist": "Sadhana Sargam, Mohammed Aziz, Sudesh Bhosle",
+    "type": "youtube",
+    "videoId": "xum5p6rC6sI",
+    "cover": "https://i.ytimg.com/vi/xum5p6rC6sI/hqdefault.jpg"
+  },
+  {
+    "name": "Aankh Mare",
+    "artist": "Kumar Sanu, Kavita Krishnamurthy",
+    "type": "youtube",
+    "videoId": "g49BjX9QpmI",
+    "cover": "https://i.ytimg.com/vi/g49BjX9QpmI/hqdefault.jpg"
+  },
+  {
+    "name": "Le Gayi",
+    "artist": "Uttam Singh, Asha Bhosle, Anand Bakshi",
+    "type": "youtube",
+    "videoId": "Qw0SM_TU20c",
+    "cover": "https://i.ytimg.com/vi/Qw0SM_TU20c/hqdefault.jpg"
+  },
+  {
+    "name": "Ek Ho Gaye Hum Aur Tum - From \"Bombay\"",
+    "artist": "Remo Fernandes",
+    "type": "youtube",
+    "videoId": "mBlmMOQfUY0",
+    "cover": "https://i.ytimg.com/vi/mBlmMOQfUY0/hqdefault.jpg"
+  },
+  {
+    "name": "Na Na Na Re",
+    "artist": "Daler Mehndi, Sudesh Bhosle",
+    "type": "youtube",
+    "videoId": "vDolreuYdhA",
+    "cover": "https://i.ytimg.com/vi/vDolreuYdhA/hqdefault.jpg"
+  },
+  {
+    "name": "Aap KO Dekh Ke",
+    "artist": "Amit Kumar, Sadhana Sargam",
+    "type": "youtube",
+    "videoId": "L2jiGLfKgvs",
+    "cover": "https://i.ytimg.com/vi/L2jiGLfKgvs/hqdefault.jpg"
+  },
+  {
+    "name": "Koi Mil Gaya",
+    "artist": "Jatin-Lalit, Kavita Krishnamurthy, Udit Narayan, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "IuS2d8bobgw",
+    "cover": "https://i.ytimg.com/vi/IuS2d8bobgw/hqdefault.jpg"
+  },
+  {
+    "name": "Tamma Tamma Loge",
+    "artist": "Bappi Lahiri, Anuradha Paudwal",
+    "type": "youtube",
+    "videoId": "KxBA-yWCZmw",
+    "cover": "https://i.ytimg.com/vi/KxBA-yWCZmw/hqdefault.jpg"
+  },
+  {
+    "name": "Dole Dole Dil Dole",
+    "artist": "Kavita Krishnamurthy",
+    "type": "youtube",
+    "videoId": "inol8wfAVlU",
+    "cover": "https://i.ytimg.com/vi/inol8wfAVlU/hqdefault.jpg"
+  },
+  {
+    "name": "Ruk Ja O Dil Deewane",
+    "artist": "Udit Narayan",
+    "type": "youtube",
+    "videoId": "Ew1NqL4RGhw",
+    "cover": "https://i.ytimg.com/vi/Ew1NqL4RGhw/hqdefault.jpg"
+  },
+  {
+    "name": "Pehla Pehla Pyar",
+    "artist": "S. P. Balasubrahmanyam",
+    "type": "youtube",
+    "videoId": "KXkmrco12hI",
+    "cover": "https://i.ytimg.com/vi/KXkmrco12hI/hqdefault.jpg"
+  },
+  {
+    "name": "Dil To Pagal Hai",
+    "artist": "Uttam Singh, Lata Mangeshkar, Udit Narayan, Anand Bakshi",
+    "type": "youtube",
+    "videoId": "ojCnlV1MA-k",
+    "cover": "https://i.ytimg.com/vi/ojCnlV1MA-k/hqdefault.jpg"
+  },
+  {
+    "name": "Humko Sirf Tumse",
+    "artist": "Kumar Sanu, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "voJs4ascsgU",
+    "cover": "https://i.ytimg.com/vi/voJs4ascsgU/hqdefault.jpg"
+  },
+  {
+    "name": "Jaadu Teri Nazar",
+    "artist": "Udit Narayan",
+    "type": "youtube",
+    "videoId": "0gQac02yxjw",
+    "cover": "https://i.ytimg.com/vi/0gQac02yxjw/hqdefault.jpg"
+  },
+  {
+    "name": "Yeh Dil Deewana",
+    "artist": "Sonu Nigam, Hema Sardesai, Shankar Mahadevan",
+    "type": "youtube",
+    "videoId": "KUjswKk5vuM",
+    "cover": "https://i.ytimg.com/vi/KUjswKk5vuM/hqdefault.jpg"
+  },
+  {
+    "name": "Tumsa Koi Pyaara",
+    "artist": "Kumar Sanu, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "-Q6QN6DTZoM",
+    "cover": "https://i.ytimg.com/vi/-Q6QN6DTZoM/hqdefault.jpg"
+  },
+  {
+    "name": "Sona Kitna Sona Hai",
+    "artist": "Anand-Milind, Udit Narayan, Poornima, Sameer Anjaan",
+    "type": "youtube",
+    "videoId": "taq_VIIGiUY",
+    "cover": "https://i.ytimg.com/vi/taq_VIIGiUY/hqdefault.jpg"
+  },
+  {
+    "name": "Ae Kash Ke Hum",
+    "artist": "Jatin-Lalit, Kumar Sanu",
+    "type": "youtube",
+    "videoId": "_8VoZ095RRI",
+    "cover": "https://i.ytimg.com/vi/_8VoZ095RRI/hqdefault.jpg"
+  },
+  {
+    "name": "Aaye Ho Meri Zindagi Mein - Male Version",
+    "artist": "Udit Narayan",
+    "type": "youtube",
+    "videoId": "Mj3KyjuKbqI",
+    "cover": "https://i.ytimg.com/vi/Mj3KyjuKbqI/hqdefault.jpg"
+  },
+  {
+    "name": "Raah Mein Unse Mulaqat",
+    "artist": "Kumar Sanu, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "vYGPudMvxvI",
+    "cover": "https://i.ytimg.com/vi/vYGPudMvxvI/hqdefault.jpg"
+  },
+  {
+    "name": "Mere Khwabon Mein",
+    "artist": "Lata Mangeshkar",
+    "type": "youtube",
+    "videoId": "xF3gsIssLvM",
+    "cover": "https://i.ytimg.com/vi/xF3gsIssLvM/hqdefault.jpg"
+  },
+  {
+    "name": "Ladki Badi Anjani Hai",
+    "artist": "Jatin-Lalit, Kumar Sanu, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "cFAwYGhWG0w",
+    "cover": "https://i.ytimg.com/vi/cFAwYGhWG0w/hqdefault.jpg"
+  },
+  {
+    "name": "Pehla Nasha",
+    "artist": "Udit Narayan, Sadhana Sargam",
+    "type": "youtube",
+    "videoId": "ODu7OyAqK-Q",
+    "cover": "https://i.ytimg.com/vi/ODu7OyAqK-Q/hqdefault.jpg"
+  },
+  {
+    "name": "Mujhe Neend Na Aaye",
+    "artist": "Anuradha Paudwal, Udit Narayan",
+    "type": "youtube",
+    "videoId": "rrZcR4GzWq8",
+    "cover": "https://i.ytimg.com/vi/rrZcR4GzWq8/hqdefault.jpg"
+  },
+  {
+    "name": "Mera Dil Bhi Kitna Pagal Hai",
+    "artist": "Kumar Sanu, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "58VwkROgWGI",
+    "cover": "https://i.ytimg.com/vi/58VwkROgWGI/hqdefault.jpg"
+  },
+  {
+    "name": "Kuch Kuch Hota Hai",
+    "artist": "Jatin-Lalit, Udit Narayan, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "zh8Ti9KreKk",
+    "cover": "https://i.ytimg.com/vi/zh8Ti9KreKk/hqdefault.jpg"
+  },
+  {
+    "name": "Chaaha Hai Tujhko",
+    "artist": "Udit Narayan, Anuradha Paudwal",
+    "type": "youtube",
+    "videoId": "SUnD-B1JQZk",
+    "cover": "https://i.ytimg.com/vi/SUnD-B1JQZk/hqdefault.jpg"
+  },
+  {
+    "name": "Barsaat Ke Mausam Mein",
+    "artist": "Kumar Sanu, Roop Kumar Rathod",
+    "type": "youtube",
+    "videoId": "rrzSZ0NMID4",
+    "cover": "https://i.ytimg.com/vi/rrzSZ0NMID4/hqdefault.jpg"
+  },
+  {
+    "name": "Yeh Haseen Vadiyan Yeh Khula Aasman",
+    "artist": "A.R. Rahman, S. P. Balasubrahmanyam, K. S. Chithra",
+    "type": "youtube",
+    "videoId": "x76GZ5o9vgo",
+    "cover": "https://i.ytimg.com/vi/x76GZ5o9vgo/hqdefault.jpg"
+  },
+  {
+    "name": "Tujhe Dekha To",
+    "artist": "Lata Mangeshkar, Kumar Sanu",
+    "type": "youtube",
+    "videoId": "EYA-aTnbKIQ",
+    "cover": "https://i.ytimg.com/vi/EYA-aTnbKIQ/hqdefault.jpg"
+  },
+  {
+    "name": "Kahin Mujhe Pyar Hua Toh Nahin",
+    "artist": "Alka Yagnik, Kumar Sanu",
+    "type": "youtube",
+    "videoId": "5SGxpmPt9j0",
+    "cover": "https://i.ytimg.com/vi/5SGxpmPt9j0/hqdefault.jpg"
+  },
+  {
+    "name": "Na Milo Kahin Pyar",
+    "artist": "Sonu Nigam, Kavita Krishnamurthy",
+    "type": "youtube",
+    "videoId": "buFBVmEjL9w",
+    "cover": "https://i.ytimg.com/vi/buFBVmEjL9w/hqdefault.jpg"
+  },
+  {
+    "name": "Saathiya Tune Kya Kiya",
+    "artist": "S. P. Balasubrahmanyam, K. S. Chithra",
+    "type": "youtube",
+    "videoId": "9J_isuHe8bw",
+    "cover": "https://i.ytimg.com/vi/9J_isuHe8bw/hqdefault.jpg"
+  },
+  {
+    "name": "Bahut Pyar Karte Hai - Female Version",
+    "artist": "Anuradha Paudwal",
+    "type": "youtube",
+    "videoId": "iaP6ouHBNGQ",
+    "cover": "https://i.ytimg.com/vi/iaP6ouHBNGQ/hqdefault.jpg"
+  },
+  {
+    "name": "Saat Samundar Paar Happy",
+    "artist": "Sadhana Sargam",
+    "type": "youtube",
+    "videoId": "Wa_Gmco7x1g",
+    "cover": "https://i.ytimg.com/vi/Wa_Gmco7x1g/hqdefault.jpg"
+  },
+  {
+    "name": "Tumse Milne Ki Tamanna Hai",
+    "artist": "S. P. Balasubrahmanyam",
+    "type": "youtube",
+    "videoId": "x_a2ZVkYw_o",
+    "cover": "https://i.ytimg.com/vi/x_a2ZVkYw_o/hqdefault.jpg"
+  },
+  {
+    "name": "Jab Kisiki Taraf Dil",
+    "artist": "Jatin-Lalit, Kumar Sanu",
+    "type": "youtube",
+    "videoId": "PibwsWYad2Q",
+    "cover": "https://i.ytimg.com/vi/PibwsWYad2Q/hqdefault.jpg"
+  },
+  {
+    "name": "Tumse Milne Ko Dil",
+    "artist": "Alka Yagnik, Kumar Sanu",
+    "type": "youtube",
+    "videoId": "_dLXszk6jic",
+    "cover": "https://i.ytimg.com/vi/_dLXszk6jic/hqdefault.jpg"
+  },
+  {
+    "name": "Main Duniya Bhula Doonga",
+    "artist": "Anuradha Paudwal, Kumar Sanu, Super Cassettes Industries Private Limited, Sameer Anjaan",
+    "type": "youtube",
+    "videoId": "otQmzlm-s7Q",
+    "cover": "https://i.ytimg.com/vi/otQmzlm-s7Q/hqdefault.jpg"
+  },
+  {
+    "name": "Woh Ladki Jo",
+    "artist": "Abhijeet",
+    "type": "youtube",
+    "videoId": "KcnAbgb9bGc",
+    "cover": "https://i.ytimg.com/vi/KcnAbgb9bGc/hqdefault.jpg"
+  },
+  {
+    "name": "Mujhko Peena Hain",
+    "artist": "Mohammed Aziz",
+    "type": "youtube",
+    "videoId": "ZDsneGdOdaQ",
+    "cover": "https://i.ytimg.com/vi/ZDsneGdOdaQ/hqdefault.jpg"
+  },
+  {
+    "name": "Tu Meri Zindagi Hai",
+    "artist": "Anuradha Paudwal, Kumar Sanu, Super Cassettes Industries Private Limited, Sameer Anjaan",
+    "type": "youtube",
+    "videoId": "KgsYJRnBNeE",
+    "cover": "https://i.ytimg.com/vi/KgsYJRnBNeE/hqdefault.jpg"
+  },
+  {
+    "name": "Chhupana Bhi Nahin Aata",
+    "artist": "Vinod Rathod",
+    "type": "youtube",
+    "videoId": "ahWuRdDXmwg",
+    "cover": "https://i.ytimg.com/vi/ahWuRdDXmwg/hqdefault.jpg"
+  },
+  {
+    "name": "Tu Mere Samne",
+    "artist": "Lata Mangeshkar, Udit Narayan",
+    "type": "youtube",
+    "videoId": "Oj484P4OXD8",
+    "cover": "https://i.ytimg.com/vi/Oj484P4OXD8/hqdefault.jpg"
+  },
+  {
+    "name": "Pehle Pyaar Ka Pehla",
+    "artist": "Kavita Krishnamurthy",
+    "type": "youtube",
+    "videoId": "Ncg6d49B6Bo",
+    "cover": "https://i.ytimg.com/vi/Ncg6d49B6Bo/hqdefault.jpg"
+  },
+  {
+    "name": "Chaahat Na Hoti",
+    "artist": "Vinod Rathod, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "CLrxORb_FJY",
+    "cover": "https://i.ytimg.com/vi/CLrxORb_FJY/hqdefault.jpg"
+  },
+  {
+    "name": "Ramta Jogi",
+    "artist": "Sukhwinder Singh, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "WYGOccD6GBI",
+    "cover": "https://i.ytimg.com/vi/WYGOccD6GBI/hqdefault.jpg"
+  },
+  {
+    "name": "Ishq Aur Pyar Ka",
+    "artist": "Altaf Raja",
+    "type": "youtube",
+    "videoId": "gLt7Q_nCzvU",
+    "cover": "https://i.ytimg.com/vi/gLt7Q_nCzvU/hqdefault.jpg"
+  },
+  {
+    "name": "Ishq Bina",
+    "artist": "Anuradha Sriram, Sujatha, A.R. Rahman, Sonu Nigam",
+    "type": "youtube",
+    "videoId": "zSCevtX7ud0",
+    "cover": "https://i.ytimg.com/vi/zSCevtX7ud0/hqdefault.jpg"
+  },
+  {
+    "name": "Nazar Ke Samne",
+    "artist": "Anuradha Paudwal, Kumar Sanu, Super Cassettes Industries Private Limited, Sameer Anjaan",
+    "type": "youtube",
+    "videoId": "Fw9au12q_1Y",
+    "cover": "https://i.ytimg.com/vi/Fw9au12q_1Y/hqdefault.jpg"
+  },
+  {
+    "name": "To Chalun",
+    "artist": "Roop Kumar Rathod",
+    "type": "youtube",
+    "videoId": "n-Wwsb7-EVg",
+    "cover": "https://i.ytimg.com/vi/n-Wwsb7-EVg/hqdefault.jpg"
+  },
+  {
+    "name": "Madhosh Dil Ki Dhadkan",
+    "artist": "Lata Mangeshkar, Kumar Sanu",
+    "type": "youtube",
+    "videoId": "tREpI0p90js",
+    "cover": "https://i.ytimg.com/vi/tREpI0p90js/hqdefault.jpg"
+  },
+  {
+    "name": "Suniye To",
+    "artist": "Abhijeet",
+    "type": "youtube",
+    "videoId": "q0tCwA_EAKk",
+    "cover": "https://i.ytimg.com/vi/q0tCwA_EAKk/hqdefault.jpg"
+  },
+  {
+    "name": "Chithi Na Koi Sandesh-Jagjit Singh",
+    "artist": "Jagjit Singh",
+    "type": "youtube",
+    "videoId": "HbOCFkEdrbI",
+    "cover": "https://i.ytimg.com/vi/HbOCFkEdrbI/hqdefault.jpg"
+  },
+  {
+    "name": "Sandese Aate Hai",
+    "artist": "Sonu Nigam, Roop Kumar Rathod",
+    "type": "youtube",
+    "videoId": "9sthJUHkzgI",
+    "cover": "https://i.ytimg.com/vi/9sthJUHkzgI/hqdefault.jpg"
+  },
+  {
+    "name": "Hum Dil De Chuke Sanam",
+    "artist": "Kavita Krishnamurthy, Mohammad Salamat, Dominique",
+    "type": "youtube",
+    "videoId": "aIEeGGkLwOM",
+    "cover": "https://i.ytimg.com/vi/aIEeGGkLwOM/hqdefault.jpg"
+  },
+  {
+    "name": "Uljhi Hai Yeh Kis Jaal Mein Tu - Humko Aajkal Hai Intezaar",
+    "artist": "Anupama",
+    "type": "youtube",
+    "videoId": "JQeb1ebuAHU",
+    "cover": "https://i.ytimg.com/vi/JQeb1ebuAHU/hqdefault.jpg"
+  },
+  {
+    "name": "Hai Rama",
+    "artist": "A.R. Rahman, Hariharan, Swarnalatha, Mehboob",
+    "type": "youtube",
+    "videoId": "WFlXK7hiWJk",
+    "cover": "https://i.ytimg.com/vi/WFlXK7hiWJk/hqdefault.jpg"
+  },
+  {
+    "name": "Chaand Taare",
+    "artist": "Abhijeet, Jatin-Lalit",
+    "type": "youtube",
+    "videoId": "t3ynYlnIKAI",
+    "cover": "https://i.ytimg.com/vi/t3ynYlnIKAI/hqdefault.jpg"
+  },
+  {
+    "name": "Honthon Pe Bas",
+    "artist": "Dilip Sen- Sameer Sen, Lata Mangeshkar, Kumar Sanu, Sameer Anjaan",
+    "type": "youtube",
+    "videoId": "jUt5Hy7NclM",
+    "cover": "https://i.ytimg.com/vi/jUt5Hy7NclM/hqdefault.jpg"
+  },
+  {
+    "name": "Kehna Hi Kya - From \"Bombay\"",
+    "artist": "K. S. Chithra",
+    "type": "youtube",
+    "videoId": "RfK54g1wo9k",
+    "cover": "https://i.ytimg.com/vi/RfK54g1wo9k/hqdefault.jpg"
+  },
+  {
+    "name": "Meri Duniya Hai",
+    "artist": "Sonu Nigam, Kavita Krishnamurthy",
+    "type": "youtube",
+    "videoId": "h5neWyIvyQg",
+    "cover": "https://i.ytimg.com/vi/h5neWyIvyQg/hqdefault.jpg"
+  },
+  {
+    "name": "Shaam Hai Dhuan Dhuan",
+    "artist": "Ajay Devgan, Poornima, Anu Malik, Javed Akhtar",
+    "type": "youtube",
+    "videoId": "WkGqevlRJ8o",
+    "cover": "https://i.ytimg.com/vi/WkGqevlRJ8o/hqdefault.jpg"
+  },
+  {
+    "name": "Aa Jaana Aa Jaana",
+    "artist": "Anand-Milind, Alka Yagnik, Kumar Sanu, Sameer Anjaan",
+    "type": "youtube",
+    "videoId": "NmmDsd-JC-0",
+    "cover": "https://i.ytimg.com/vi/NmmDsd-JC-0/hqdefault.jpg"
+  },
+  {
+    "name": "Mausam Ka Jaadu",
+    "artist": "Lata Mangeshkar, S. P. Balasubrahmanyam",
+    "type": "youtube",
+    "videoId": "e_1vLx1WurU",
+    "cover": "https://i.ytimg.com/vi/e_1vLx1WurU/hqdefault.jpg"
+  },
+  {
+    "name": "Dooba Dooba",
+    "artist": "Silk Route",
+    "type": "youtube",
+    "videoId": "tO3veEkT2rc",
+    "cover": "https://i.ytimg.com/vi/tO3veEkT2rc/hqdefault.jpg"
+  },
+  {
+    "name": "Piya Basanti",
+    "artist": "Ustad Sultan Khan, K. S. Chithra",
+    "type": "youtube",
+    "videoId": "ZtGiw-Py21A",
+    "cover": "https://i.ytimg.com/vi/ZtGiw-Py21A/hqdefault.jpg"
+  },
+  {
+    "name": "Chhoti Si Aasha - Version, 1",
+    "artist": "Minmini, A.R. Rahman",
+    "type": "youtube",
+    "videoId": "E4MxRN2ix88",
+    "cover": "https://i.ytimg.com/vi/E4MxRN2ix88/hqdefault.jpg"
+  },
+  {
+    "name": "Ishq Hua Kaise Hua",
+    "artist": "Anu Malik, Udit Narayan, Vibha Sharma",
+    "type": "youtube",
+    "videoId": "rBA2wuhxYfk",
+    "cover": "https://i.ytimg.com/vi/rBA2wuhxYfk/hqdefault.jpg"
+  },
+  {
+    "name": "Yaaron",
+    "artist": "KK",
+    "type": "youtube",
+    "videoId": "5vzKpjMFHTY",
+    "cover": "https://i.ytimg.com/vi/5vzKpjMFHTY/hqdefault.jpg"
+  },
+  {
+    "name": "Na Kajare Ki Dhar",
+    "artist": "Pankaj Udhas, Sadhana Sargam",
+    "type": "youtube",
+    "videoId": "UQU8eJqpF94",
+    "cover": "https://i.ytimg.com/vi/UQU8eJqpF94/hqdefault.jpg"
+  },
+  {
+    "name": "Made in India",
+    "artist": "Alisha Chinai",
+    "type": "youtube",
+    "videoId": "P1JCScrplTw",
+    "cover": "https://i.ytimg.com/vi/P1JCScrplTw/hqdefault.jpg"
+  },
+  {
+    "name": "Kahin Aag Lage Lag Jaaye",
+    "artist": "Asha Bhosle, Richa Sharma, Aditya Narayan",
+    "type": "youtube",
+    "videoId": "-qlrEgMX7pE",
+    "cover": "https://i.ytimg.com/vi/-qlrEgMX7pE/hqdefault.jpg"
+  },
+  {
+    "name": "Sabki Baaratein Aayi",
+    "artist": "Jaspinder Narula",
+    "type": "youtube",
+    "videoId": "uues635jAD4",
+    "cover": "https://i.ytimg.com/vi/uues635jAD4/hqdefault.jpg"
+  },
+  {
+    "name": "Chappa Chappa",
+    "artist": "Vishal Bhardwaj, Hariharan, Suresh Wadkar",
+    "type": "youtube",
+    "videoId": "H4jZWtG5cvw",
+    "cover": "https://i.ytimg.com/vi/H4jZWtG5cvw/hqdefault.jpg"
+  },
+  {
+    "name": "Aashiqui Mein Har Aashiq",
+    "artist": "Sadhana Sargam",
+    "type": "youtube",
+    "videoId": "L85rSpXikXs",
+    "cover": "https://i.ytimg.com/vi/L85rSpXikXs/hqdefault.jpg"
+  },
+  {
+    "name": "Kitaben Bahut Si",
+    "artist": "Asha Bhosle, Vinod Rathod",
+    "type": "youtube",
+    "videoId": "ieu6xnwJxdA",
+    "cover": "https://i.ytimg.com/vi/ieu6xnwJxdA/hqdefault.jpg"
+  },
+  {
+    "name": "Mhare Hiwra Main Nache Mor",
+    "artist": "Hari Haran, Anuradha Paudwal, Kumar Sanu, Udit Narayan, Kavita Krishnamurthy, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "zifHUHN7eZs",
+    "cover": "https://i.ytimg.com/vi/zifHUHN7eZs/hqdefault.jpg"
+  },
+  {
+    "name": "Hamen Jab Se Mohabbat",
+    "artist": "Sonu Nigam, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "L0iHqeSvndU",
+    "cover": "https://i.ytimg.com/vi/L0iHqeSvndU/hqdefault.jpg"
+  },
+  {
+    "name": "Main Tujhko Bhaga Laya",
+    "artist": "Anand-Milind, Kumar Sanu, Alka Yagnik, Sameer Anjaan",
+    "type": "youtube",
+    "videoId": "AdAvU0ljPAA",
+    "cover": "https://i.ytimg.com/vi/AdAvU0ljPAA/hqdefault.jpg"
+  },
+  {
+    "name": "Dil Ne Dil Se Iqrar Kiya",
+    "artist": "Hariharan, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "SKE5UpPhA-U",
+    "cover": "https://i.ytimg.com/vi/SKE5UpPhA-U/hqdefault.jpg"
+  },
+  {
+    "name": "Chhod Aaye Hum",
+    "artist": "Vishal Bhardwaj, Hariharan, Suresh Wadkar, Vinod Sehgal, KK",
+    "type": "youtube",
+    "videoId": "wGafZnT75a4",
+    "cover": "https://i.ytimg.com/vi/wGafZnT75a4/hqdefault.jpg"
+  },
+  {
+    "name": "Poster Lagwado Bazaar Mein",
+    "artist": "Lalit Sen, Shweta Shetty",
+    "type": "youtube",
+    "videoId": "P1U-tI8o5dc",
+    "cover": "https://i.ytimg.com/vi/P1U-tI8o5dc/hqdefault.jpg"
+  },
+  {
+    "name": "Ek Duje Ke Vaaste",
+    "artist": "Uttam Singh, Lata Mangeshkar, Hariharan, Anand Bakshi",
+    "type": "youtube",
+    "videoId": "uori-FN0pXs",
+    "cover": "https://i.ytimg.com/vi/uori-FN0pXs/hqdefault.jpg"
+  },
+  {
+    "name": "Saanson Ki Mala",
+    "artist": "Kavita Krishnamurthy",
+    "type": "youtube",
+    "videoId": "6RU1LTDqyRM",
+    "cover": "https://i.ytimg.com/vi/6RU1LTDqyRM/hqdefault.jpg"
+  },
+  {
+    "name": "Koi Na Koi Chahiye",
+    "artist": "Vinod Rathod",
+    "type": "youtube",
+    "videoId": "GFSDl0__4os",
+    "cover": "https://i.ytimg.com/vi/GFSDl0__4os/hqdefault.jpg"
+  },
+  {
+    "name": "Oonchi Hai Building",
+    "artist": "Poornima, Anu Malik",
+    "type": "youtube",
+    "videoId": "kcRiLuclqzo",
+    "cover": "https://i.ytimg.com/vi/kcRiLuclqzo/hqdefault.jpg"
+  },
+  {
+    "name": "Saathiya Bin Tere Dil Mane Na",
+    "artist": "Anand-Milind, Kumar Sanu, Alka Yagnik, Sameer Anjaan",
+    "type": "youtube",
+    "videoId": "AHdo6gJKAk8",
+    "cover": "https://i.ytimg.com/vi/AHdo6gJKAk8/hqdefault.jpg"
+  },
+  {
+    "name": "Kitna Haseen Chehra (From \"Dilwale\")",
+    "artist": "Kumar Sanu",
+    "type": "youtube",
+    "videoId": "PsywlJ3GJPM",
+    "cover": "https://i.ytimg.com/vi/PsywlJ3GJPM/hqdefault.jpg"
+  },
+  {
+    "name": "Dil Ka Aalam",
+    "artist": "Kumar Sanu, Super Cassettes Industries Private Limited, Madan Pal",
+    "type": "youtube",
+    "videoId": "agSFEdDzT58",
+    "cover": "https://i.ytimg.com/vi/agSFEdDzT58/hqdefault.jpg"
+  },
+  {
+    "name": "Is Pyar Se Meri Taraf Na Dekho - Male Version",
+    "artist": "Kumar Sanu",
+    "type": "youtube",
+    "videoId": "CnR14FmVcFA",
+    "cover": "https://i.ytimg.com/vi/CnR14FmVcFA/hqdefault.jpg"
+  },
+  {
+    "name": "Dhiktana, Pt. 1",
+    "artist": "S. P. Balasubrahmanyam",
+    "type": "youtube",
+    "videoId": "JWaZ9lSgJxI",
+    "cover": "https://i.ytimg.com/vi/JWaZ9lSgJxI/hqdefault.jpg"
+  },
+  {
+    "name": "Aaj Hai Sagaai",
+    "artist": "Jatin-Lalit, Abhijeet, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "5XdK0gk1GdM",
+    "cover": "https://i.ytimg.com/vi/5XdK0gk1GdM/hqdefault.jpg"
+  },
+  {
+    "name": "Dialogues (Hum Aapke Hain Koun)",
+    "artist": "Madhuri Dixit, Salman Khan, Renuka Sahane",
+    "type": "youtube",
+    "videoId": "Oqpv4-UNrjY",
+    "cover": "https://i.ytimg.com/vi/Oqpv4-UNrjY/hqdefault.jpg"
+  },
+  {
+    "name": "Saajanji Ghar Aaye",
+    "artist": "Jatin-Lalit, Kumar Sanu, Alka Yagnik, Kavita Krishnamurthy",
+    "type": "youtube",
+    "videoId": "qzy69YuUtz4",
+    "cover": "https://i.ytimg.com/vi/qzy69YuUtz4/hqdefault.jpg"
+  },
+  {
+    "name": "Choodi Baji Hai",
+    "artist": "Udit Narayan, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "qL3lApIbHV0",
+    "cover": "https://i.ytimg.com/vi/qL3lApIbHV0/hqdefault.jpg"
+  },
+  {
+    "name": "Chand Chhupa Badal Mein",
+    "artist": "Udit Narayan, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "9a6UaCBEV6o",
+    "cover": "https://i.ytimg.com/vi/9a6UaCBEV6o/hqdefault.jpg"
+  },
+  {
+    "name": "Bholi Si Surat",
+    "artist": "Uttam Singh, Lata Mangeshkar, Udit Narayan, Anand Bakshi",
+    "type": "youtube",
+    "videoId": "-1J1XqOKnuw",
+    "cover": "https://i.ytimg.com/vi/-1J1XqOKnuw/hqdefault.jpg"
+  },
+  {
+    "name": "Ho Nahi Sakta",
+    "artist": "Udit Narayan, Anu Malik, Javed Akhtar",
+    "type": "youtube",
+    "videoId": "arlO8ynlcew",
+    "cover": "https://i.ytimg.com/vi/arlO8ynlcew/hqdefault.jpg"
+  },
+  {
+    "name": "Ajnabi Mujhko Itna Bata",
+    "artist": "Jatin-Lalit, Asha Bhosle, Udit Narayan",
+    "type": "youtube",
+    "videoId": "7bdfvQk9suw",
+    "cover": "https://i.ytimg.com/vi/7bdfvQk9suw/hqdefault.jpg"
+  },
+  {
+    "name": "Pyaar Ke Kagaz Pe",
+    "artist": "Abhijit: Sadhana Sargam",
+    "type": "youtube",
+    "videoId": "IwU_aXOfSIc",
+    "cover": "https://i.ytimg.com/vi/IwU_aXOfSIc/hqdefault.jpg"
+  },
+  {
+    "name": "Kisi Din Banoongi Main",
+    "artist": "Alka Yagnik, Udit Narayan",
+    "type": "youtube",
+    "videoId": "52MTK4354ck",
+    "cover": "https://i.ytimg.com/vi/52MTK4354ck/hqdefault.jpg"
+  },
+  {
+    "name": "Phool Maangu Na Bahaar Maangu",
+    "artist": "Alka Yagnik, Udit Narayan",
+    "type": "youtube",
+    "videoId": "PMbML1pal8M",
+    "cover": "https://i.ytimg.com/vi/PMbML1pal8M/hqdefault.jpg"
+  },
+  {
+    "name": "Dholna",
+    "artist": "Uttam Singh, Lata Mangeshkar, Udit Narayan, Anand Bakshi",
+    "type": "youtube",
+    "videoId": "Zu4j45__uHQ",
+    "cover": "https://i.ytimg.com/vi/Zu4j45__uHQ/hqdefault.jpg"
+  },
+  {
+    "name": "Are Re Are (Part-2)",
+    "artist": "Uttam Singh, Lata Mangeshkar, Udit Narayan, Anand Bakshi",
+    "type": "youtube",
+    "videoId": "OEpFiDKqH7E",
+    "cover": "https://i.ytimg.com/vi/OEpFiDKqH7E/hqdefault.jpg"
+  },
+  {
+    "name": "Mere Khayalon Ki Malika",
+    "artist": "Abhijeet",
+    "type": "youtube",
+    "videoId": "DNJRiMM5Qyk",
+    "cover": "https://i.ytimg.com/vi/DNJRiMM5Qyk/hqdefault.jpg"
+  },
+  {
+    "name": "Hum to Dil Se Haare",
+    "artist": "Udit Narayan, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "8fEGOMDGt78",
+    "cover": "https://i.ytimg.com/vi/8fEGOMDGt78/hqdefault.jpg"
+  },
+  {
+    "name": "Aaj Pehli Baar Dil Ki Baat",
+    "artist": "Kumar Sanu, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "g5rdDfqLNYU",
+    "cover": "https://i.ytimg.com/vi/g5rdDfqLNYU/hqdefault.jpg"
+  },
+  {
+    "name": "Tere Mere Honthon Pe Mitwa",
+    "artist": "Lata Mangeshkar, Babla Mehta",
+    "type": "youtube",
+    "videoId": "5txaRiJfQXM",
+    "cover": "https://i.ytimg.com/vi/5txaRiJfQXM/hqdefault.jpg"
+  },
+  {
+    "name": "Lagi Aaj Sawan Ki",
+    "artist": "Suresh Wadkar, Anupama",
+    "type": "youtube",
+    "videoId": "ZDoP5WTR1So",
+    "cover": "https://i.ytimg.com/vi/ZDoP5WTR1So/hqdefault.jpg"
+  },
+  {
+    "name": "Anar Dana",
+    "artist": "Lata Mangeshkar",
+    "type": "youtube",
+    "videoId": "VyRQFt7k25M",
+    "cover": "https://i.ytimg.com/vi/VyRQFt7k25M/hqdefault.jpg"
+  },
+  {
+    "name": "Choodi Maza Na Degi",
+    "artist": "Lata Mangeshkar",
+    "type": "youtube",
+    "videoId": "VNGrEbo1jS8",
+    "cover": "https://i.ytimg.com/vi/VNGrEbo1jS8/hqdefault.jpg"
+  },
+  {
+    "name": "O Hare Dupattewali",
+    "artist": "Vipin Sachdeva",
+    "type": "youtube",
+    "videoId": "5DSG4RsGOUc",
+    "cover": "https://i.ytimg.com/vi/5DSG4RsGOUc/hqdefault.jpg"
+  },
+  {
+    "name": "Aapko Pehle Bhi Kahin Dekha Hai",
+    "artist": "Udit Narayan, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "h3OEqK11tIw",
+    "cover": "https://i.ytimg.com/vi/h3OEqK11tIw/hqdefault.jpg"
+  },
+  {
+    "name": "Tumhare Siva",
+    "artist": "Anuradha Paudwal, Udit Narayan",
+    "type": "youtube",
+    "videoId": "FdKEvURs6BM",
+    "cover": "https://i.ytimg.com/vi/FdKEvURs6BM/hqdefault.jpg"
+  },
+  {
+    "name": "Laal Dupatta",
+    "artist": "Udit Narayan, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "1jjDs69WWUQ",
+    "cover": "https://i.ytimg.com/vi/1jjDs69WWUQ/hqdefault.jpg"
+  },
+  {
+    "name": "Har Dil Jo Pyar Karega",
+    "artist": "Udit Narayan, Alka Yagnik, Anu Malik, Sameer Anjaan",
+    "type": "youtube",
+    "videoId": "b4n19OJyO2A",
+    "cover": "https://i.ytimg.com/vi/b4n19OJyO2A/hqdefault.jpg"
+  },
+  {
+    "name": "Dekhne Walon Ne - From ''Chori Chori Chupke Chupke''",
+    "artist": "Udit Narayan, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "Lqz__ekbcMs",
+    "cover": "https://i.ytimg.com/vi/Lqz__ekbcMs/hqdefault.jpg"
+  },
+  {
+    "name": "No. 1 Punjabi - From \"Chori chori Chupke Chupke\"",
+    "artist": "Sonu Nigam, Jaspinder Narula",
+    "type": "youtube",
+    "videoId": "E67Wqdpfh4E",
+    "cover": "https://i.ytimg.com/vi/E67Wqdpfh4E/hqdefault.jpg"
+  },
+  {
+    "name": "Sajan Tumse Pyar",
+    "artist": "Udit Narayan, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "M5QjaZ7XgF0",
+    "cover": "https://i.ytimg.com/vi/M5QjaZ7XgF0/hqdefault.jpg"
+  },
+  {
+    "name": "Hoga Thanedar Too",
+    "artist": "Lata Mangeshkar, Kishore Kumar",
+    "type": "youtube",
+    "videoId": "155jVlOjwOE",
+    "cover": "https://i.ytimg.com/vi/155jVlOjwOE/hqdefault.jpg"
+  },
+  {
+    "name": "Yeh Ladka Hai Allah",
+    "artist": "Jatin-Lalit, Udit Narayan, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "ua_3ABfsaeA",
+    "cover": "https://i.ytimg.com/vi/ua_3ABfsaeA/hqdefault.jpg"
+  },
+  {
+    "name": "Phir Bhi Dil Hai Hindustani",
+    "artist": "Jatin-Lalit, Udit Narayan",
+    "type": "youtube",
+    "videoId": "Rm-esz45WGU",
+    "cover": "https://i.ytimg.com/vi/Rm-esz45WGU/hqdefault.jpg"
+  },
+  {
+    "name": "Aankhon Mein Base Ho Tum - Male Version",
+    "artist": "Anu Malik, Alka Yagnik, Abhijeet, Maya Govind",
+    "type": "youtube",
+    "videoId": "cW5KnYiNgHU",
+    "cover": "https://i.ytimg.com/vi/cW5KnYiNgHU/hqdefault.jpg"
+  },
+  {
+    "name": "Yeh Ishq Hai Kya",
+    "artist": "Anand-Milind, Kumar Sanu, Alka Yagnik, Sameer Anjaan",
+    "type": "youtube",
+    "videoId": "kzbyYBpCMEE",
+    "cover": "https://i.ytimg.com/vi/kzbyYBpCMEE/hqdefault.jpg"
+  },
+  {
+    "name": "Mere Dulhe Raja",
+    "artist": "Alka Yagnik",
+    "type": "youtube",
+    "videoId": "OKOVpilGyfA",
+    "cover": "https://i.ytimg.com/vi/OKOVpilGyfA/hqdefault.jpg"
+  },
+  {
+    "name": "Phool Gulab Ka",
+    "artist": "Anuradha Paudwal, Mohammed Aziz",
+    "type": "youtube",
+    "videoId": "6Dx6PbYyNuU",
+    "cover": "https://i.ytimg.com/vi/6Dx6PbYyNuU/hqdefault.jpg"
+  },
+  {
+    "name": "Ghoonghat Ki Aadh Se",
+    "artist": "Kumar Sanu, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "EMgydgSdwSc",
+    "cover": "https://i.ytimg.com/vi/EMgydgSdwSc/hqdefault.jpg"
+  },
+  {
+    "name": "Dil Deewana",
+    "artist": "Lata Mangeshkar",
+    "type": "youtube",
+    "videoId": "zIoy7V0eRKM",
+    "cover": "https://i.ytimg.com/vi/zIoy7V0eRKM/hqdefault.jpg"
+  },
+  {
+    "name": "Gori Hai Kalaiyan",
+    "artist": "Lata Mangeshkar, Shabbir Kumar",
+    "type": "youtube",
+    "videoId": "qKTdayt8tAo",
+    "cover": "https://i.ytimg.com/vi/qKTdayt8tAo/hqdefault.jpg"
+  },
+  {
+    "name": "Kothe Upar Kothari",
+    "artist": "Alka Yagnik",
+    "type": "youtube",
+    "videoId": "y-gKo71XJDk",
+    "cover": "https://i.ytimg.com/vi/y-gKo71XJDk/hqdefault.jpg"
+  },
+  {
+    "name": "Tera Naam Liya",
+    "artist": "Manhar Udhas, Anuradha Paudwal, Laxmikant–Pyarelal",
+    "type": "youtube",
+    "videoId": "YszPWFNSYDg",
+    "cover": "https://i.ytimg.com/vi/YszPWFNSYDg/hqdefault.jpg"
+  },
+  {
+    "name": "Palki Pe Hoke",
+    "artist": "Alka Yagnik",
+    "type": "youtube",
+    "videoId": "KUbotXntejI",
+    "cover": "https://i.ytimg.com/vi/KUbotXntejI/hqdefault.jpg"
+  },
+  {
+    "name": "Hum Apke Hain Kaun Theme",
+    "artist": "Raamlaxman",
+    "type": "youtube",
+    "videoId": "nSvaqhMYWQ8",
+    "cover": "https://i.ytimg.com/vi/nSvaqhMYWQ8/hqdefault.jpg"
+  },
+  {
+    "name": "Hote Hote Pyar Ho",
+    "artist": "Alka Yagnik, Abhijeet",
+    "type": "youtube",
+    "videoId": "Kxx1ynELC60",
+    "cover": "https://i.ytimg.com/vi/Kxx1ynELC60/hqdefault.jpg"
+  },
+  {
+    "name": "Pi Pi Piya",
+    "artist": "Udit Narayan, Alka Yagnik, Laxmikant–Pyarelal",
+    "type": "youtube",
+    "videoId": "zQGRwSjMqLM",
+    "cover": "https://i.ytimg.com/vi/zQGRwSjMqLM/hqdefault.jpg"
+  },
+  {
+    "name": "Mere Pyaar Ka Hisaab",
+    "artist": "Alka Yagnik, Kumar Sanu",
+    "type": "youtube",
+    "videoId": "Sc1mbYdwPxM",
+    "cover": "https://i.ytimg.com/vi/Sc1mbYdwPxM/hqdefault.jpg"
+  },
+  {
+    "name": "Hum Tum Picture Dekh Rahe",
+    "artist": "Alka Yagnik, Udit Narayan",
+    "type": "youtube",
+    "videoId": "EYZJvukKC9k",
+    "cover": "https://i.ytimg.com/vi/EYZJvukKC9k/hqdefault.jpg"
+  },
+  {
+    "name": "Bin Sajan Jhoola Jhulu",
+    "artist": "Kumar Sanu, Sadhana Sargam",
+    "type": "youtube",
+    "videoId": "L_5RknP25dE",
+    "cover": "https://i.ytimg.com/vi/L_5RknP25dE/hqdefault.jpg"
+  },
+  {
+    "name": "Aaye Ho Meri Zindagi Mein - Female Version",
+    "artist": "Alka Yagnik",
+    "type": "youtube",
+    "videoId": "VoTnpKGUW8k",
+    "cover": "https://i.ytimg.com/vi/VoTnpKGUW8k/hqdefault.jpg"
+  },
+  {
+    "name": "Tere Ishq Mein Naachenge",
+    "artist": "Kumar Sanu, Alisha Chinai, Sapna Mukherjee",
+    "type": "youtube",
+    "videoId": "TvHeP-2A1fM",
+    "cover": "https://i.ytimg.com/vi/TvHeP-2A1fM/hqdefault.jpg"
+  },
+  {
+    "name": "Hai Na Bolo",
+    "artist": "Alka Yagnik, Kumar Sanu",
+    "type": "youtube",
+    "videoId": "DPim0XEKqIQ",
+    "cover": "https://i.ytimg.com/vi/DPim0XEKqIQ/hqdefault.jpg"
+  },
+  {
+    "name": "Mujhse Shaadi Karogi",
+    "artist": "Alka Yagnik, Suresh Wadkar, Shankar Mahadevan, Kumar Sanu",
+    "type": "youtube",
+    "videoId": "C2C6Y4aR4Zc",
+    "cover": "https://i.ytimg.com/vi/C2C6Y4aR4Zc/hqdefault.jpg"
+  },
+  {
+    "name": "Tera Pallu Sarka Jaaye Re",
+    "artist": "Alka Yagnik, Sonu Nigam",
+    "type": "youtube",
+    "videoId": "dxs-kb-T6Ao",
+    "cover": "https://i.ytimg.com/vi/dxs-kb-T6Ao/hqdefault.jpg"
+  },
+  {
+    "name": "Dulhan Hum Le Jayenge",
+    "artist": "Alka Yagnik, Kumar Sanu, Sunita Rao",
+    "type": "youtube",
+    "videoId": "2E4_AgHNPDc",
+    "cover": "https://i.ytimg.com/vi/2E4_AgHNPDc/hqdefault.jpg"
+  },
+  {
+    "name": "Chamiya",
+    "artist": "Alka Yagnik, Sonu Nigam",
+    "type": "youtube",
+    "videoId": "iKg4QyOVC7c",
+    "cover": "https://i.ytimg.com/vi/iKg4QyOVC7c/hqdefault.jpg"
+  },
+  {
+    "name": "Kahin Pyaar Na Ho Jaaye",
+    "artist": "Alka Yagnik, Kumar Sanu",
+    "type": "youtube",
+    "videoId": "ZJe0afZ4pp4",
+    "cover": "https://i.ytimg.com/vi/ZJe0afZ4pp4/hqdefault.jpg"
+  },
+  {
+    "name": "Dhin Tara",
+    "artist": "Kumar Sanu",
+    "type": "youtube",
+    "videoId": "zqnxTPnHHb8",
+    "cover": "https://i.ytimg.com/vi/zqnxTPnHHb8/hqdefault.jpg"
+  },
+  {
+    "name": "Pardesi",
+    "artist": "Sonu Nigam, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "pRhOdXvQcK0",
+    "cover": "https://i.ytimg.com/vi/pRhOdXvQcK0/hqdefault.jpg"
+  },
+  {
+    "name": "O Priya O Priya",
+    "artist": "Kamal Khan, Kumar Sanu, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "eZO0uP6GvvE",
+    "cover": "https://i.ytimg.com/vi/eZO0uP6GvvE/hqdefault.jpg"
+  },
+  {
+    "name": "Kahin Pyaar Na Ho Jaaye",
+    "artist": "Sonu Nigam, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "QJt4PILMdUo",
+    "cover": "https://i.ytimg.com/vi/QJt4PILMdUo/hqdefault.jpg"
+  },
+  {
+    "name": "Kahin Pyaar Na Ho Jaaye, Pt. 2",
+    "artist": "Kumar Sanu, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "YwT5yAREP6c",
+    "cover": "https://i.ytimg.com/vi/YwT5yAREP6c/hqdefault.jpg"
+  },
+  {
+    "name": "Pardesi, Pt. 2",
+    "artist": "Sonu Nigam",
+    "type": "youtube",
+    "videoId": "b6zAGHIQY-M",
+    "cover": "https://i.ytimg.com/vi/b6zAGHIQY-M/hqdefault.jpg"
+  },
+  {
+    "name": "Saajan Ghar Aana",
+    "artist": "Udit Narayan, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "e00VYfg8GCw",
+    "cover": "https://i.ytimg.com/vi/e00VYfg8GCw/hqdefault.jpg"
+  },
+  {
+    "name": "Chamak Challo Chel Chabeli",
+    "artist": "Sajid-Wajid, Kumar Sanu, Shreya Ghoshal",
+    "type": "youtube",
+    "videoId": "lGtDjW3VJYQ",
+    "cover": "https://i.ytimg.com/vi/lGtDjW3VJYQ/hqdefault.jpg"
+  },
+  {
+    "name": "Sabki Baaratein Aayi - Alka Yagnik Version",
+    "artist": "Alka Yagnik",
+    "type": "youtube",
+    "videoId": "Rt1mtzTFlX8",
+    "cover": "https://i.ytimg.com/vi/Rt1mtzTFlX8/hqdefault.jpg"
+  },
+  {
+    "name": "Ae Mere Humsafar",
+    "artist": "Alka Yagnik, Udit Narayan",
+    "type": "youtube",
+    "videoId": "C23kYmcqiA4",
+    "cover": "https://i.ytimg.com/vi/C23kYmcqiA4/hqdefault.jpg"
+  },
+  {
+    "name": "Deewana Main Tera Deewana",
+    "artist": "Kumar Sanu, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "mnyeln06_uY",
+    "cover": "https://i.ytimg.com/vi/mnyeln06_uY/hqdefault.jpg"
+  },
+  {
+    "name": "Ek Sanam Chahiye Aashiqui Ke Liye",
+    "artist": "Kumar Sanu, Super Cassettes Industries Private Limited, Sameer Anjaan",
+    "type": "youtube",
+    "videoId": "eY34Z5OHUFI",
+    "cover": "https://i.ytimg.com/vi/eY34Z5OHUFI/hqdefault.jpg"
+  },
+  {
+    "name": "Yeh Nakhra Ladki Ka",
+    "artist": "Kumar Sanu, Alka Yagnik, Udit Narayan",
+    "type": "youtube",
+    "videoId": "27EGKCC01kU",
+    "cover": "https://i.ytimg.com/vi/27EGKCC01kU/hqdefault.jpg"
+  },
+  {
+    "name": "Rab Kare",
+    "artist": "Udit Narayan, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "y4ZFz35MeFk",
+    "cover": "https://i.ytimg.com/vi/y4ZFz35MeFk/hqdefault.jpg"
+  },
+  {
+    "name": "Tum Kya Mile Jaane Jaan",
+    "artist": "Lata Mangeshkar, Udit Narayan",
+    "type": "youtube",
+    "videoId": "KE8W7fThxY0",
+    "cover": "https://i.ytimg.com/vi/KE8W7fThxY0/hqdefault.jpg"
+  },
+  {
+    "name": "Din Dhal Gaya Hai Abto Jane",
+    "artist": "Udit Narayan, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "VVzZ1C2UiUE",
+    "cover": "https://i.ytimg.com/vi/VVzZ1C2UiUE/hqdefault.jpg"
+  },
+  {
+    "name": "Ho Gaya Hai Tujhko To Pyar Sajna - From \"Dilwale Dulhania Le Jayenge\"",
+    "artist": "Lata Mangeshkar, Udit Narayan",
+    "type": "youtube",
+    "videoId": "hw_HpTI_Wkw",
+    "cover": "https://i.ytimg.com/vi/hw_HpTI_Wkw/hqdefault.jpg"
+  },
+  {
+    "name": "Dil Laga Liya Maine (From \"Dil Hai Tumhaara\")",
+    "artist": "Alka Yagnik & Arvind Hasabnish, Udit Narayan, Nadeem Shravan",
+    "type": "youtube",
+    "videoId": "EoommnZLEBM",
+    "cover": "https://i.ytimg.com/vi/EoommnZLEBM/hqdefault.jpg"
+  },
+  {
+    "name": "Mouka Milenga to Hum",
+    "artist": "Udit Narayan, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "Gcx0sPU5Xqk",
+    "cover": "https://i.ytimg.com/vi/Gcx0sPU5Xqk/hqdefault.jpg"
+  },
+  {
+    "name": "Ek Chumma Tu Mujhko",
+    "artist": "Udit Narayan, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "Hwwfr1xKLoI",
+    "cover": "https://i.ytimg.com/vi/Hwwfr1xKLoI/hqdefault.jpg"
+  },
+  {
+    "name": "O Naukar Sarkari - Kranti / Soundtrack Version",
+    "artist": "Udit Narayan, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "_8gn7tZXhxE",
+    "cover": "https://i.ytimg.com/vi/_8gn7tZXhxE/hqdefault.jpg"
+  },
+  {
+    "name": "Barsaat",
+    "artist": "Udit Narayan",
+    "type": "youtube",
+    "videoId": "WOp4_kJTopk",
+    "cover": "https://i.ytimg.com/vi/WOp4_kJTopk/hqdefault.jpg"
+  },
+  {
+    "name": "Kuch Kuch Hota Hai",
+    "artist": "Udit Narayan, Sadhana Sargam",
+    "type": "youtube",
+    "videoId": "J8p8z52gqmk",
+    "cover": "https://i.ytimg.com/vi/J8p8z52gqmk/hqdefault.jpg"
+  },
+  {
+    "name": "Mera Long Kho Gaya",
+    "artist": "Kavita Krishnamurthy, Sudesh Bhosle",
+    "type": "youtube",
+    "videoId": "122S6wriVgE",
+    "cover": "https://i.ytimg.com/vi/122S6wriVgE/hqdefault.jpg"
+  },
+  {
+    "name": "Laal Chunriya",
+    "artist": "Sonu Nigam, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "ajytw3WlqRM",
+    "cover": "https://i.ytimg.com/vi/ajytw3WlqRM/hqdefault.jpg"
+  },
+  {
+    "name": "Phool Phool Pe Bani Hai Teri Tasveer",
+    "artist": "Udit Narayan",
+    "type": "youtube",
+    "videoId": "9UhRN40zYUk",
+    "cover": "https://i.ytimg.com/vi/9UhRN40zYUk/hqdefault.jpg"
+  },
+  {
+    "name": "Pyar Hume Pyar Tum",
+    "artist": "Udit Narayan, Alka Yagnik",
+    "type": "youtube",
+    "videoId": "iE75P3AJOm8",
+    "cover": "https://i.ytimg.com/vi/iE75P3AJOm8/hqdefault.jpg"
+  },
+  {
+    "name": "Dil Diwana",
+    "artist": "Anuradha Paudwal, Kumar Sanu",
+    "type": "youtube",
+    "videoId": "u8Ste5nBVfs",
+    "cover": "https://i.ytimg.com/vi/u8Ste5nBVfs/hqdefault.jpg"
   },
   {
     "name": "Maine Payal Hai Chhankai",
     "artist": "Falguni Pathak",
     "type": "youtube",
-    "videoId": "0tjVtYtZ384"
-  },
-  {
-    "name": "Tu Pyar Hai Kisi Aur Ka :Aamir K, Pooja B",
-    "artist": "T-Series",
-    "type": "youtube",
-    "videoId": "U0qBRoeQa-g"
-  },
-  {
-    "name": "\"Oh Oh Jane Jaana\" Salman Khan",
-    "artist": "T-Series",
-    "type": "youtube",
-    "videoId": "x_elT6zkqN0"
-  },
-  {
-    "name": "Chudi",
-    "artist": "Falguni Pathak",
-    "type": "youtube",
-    "videoId": "Xna3I11v9Vs"
-  },
-  {
-    "name": "Sona Kitna Sona Hai",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "PlN6oP-Nlno"
-  },
-  {
-    "name": "Pyar Dilon Ka Mela Hai",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "dc5bEPnBZEk"
-  },
-  {
-    "name": "Kitna Pyara Tujhe Rab Ne Banaya",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "KuysuMXViuE"
-  },
-  {
-    "name": "Gup Chup Gup Chup",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "KAmrr0189fU"
-  },
-  {
-    "name": "Jaati Hoon Main Jaldi Hai Kya",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "l7iTcZ__Ejg"
-  },
-  {
-    "name": "Chaahat Na Hoti",
-    "artist": "Red Chillies Entertainment",
-    "type": "youtube",
-    "videoId": "jHxKiazJ__w"
-  },
-  {
-    "name": "Tere Ishq Mein Nachenge",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "1z5mNyOYlYk"
-  },
-  {
-    "name": "Yeh Bandhan Toh",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "9JYT_dyGW7k"
-  },
-  {
-    "name": "Kisi Disco Mein Jaaye",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "J7xP4m5mpN4"
-  },
-  {
-    "name": "तू मुझे कबूल",
-    "artist": "Shemaroo Filmi Gaane",
-    "type": "youtube",
-    "videoId": "kiduOidrIZs"
-  },
-  {
-    "name": "Kisi Din Banoongi Main",
-    "artist": "Shemaroo Filmi Gaane",
-    "type": "youtube",
-    "videoId": "mZwJs1YQ-Wk"
-  },
-  {
-    "name": "Meri Chunar Udd Udd Jaye",
-    "artist": "Falguni Pathak",
-    "type": "youtube",
-    "videoId": "p9r2GxMlRD4"
-  },
-  {
-    "name": "Hum Aapke Hain Koun - Salman Khan, Madhuri Dixit - Best Bollywood Song",
-    "artist": "Rajshri",
-    "type": "youtube",
-    "videoId": "2V56f0xZNqw"
-  },
-  {
-    "name": "Song",
-    "artist": "Muqabala Muqabala",
-    "type": "youtube",
-    "videoId": "FQzC23GLptE"
-  },
-  {
-    "name": "Tumne Agar Pyar Se Dekha",
-    "artist": "Shemaroo Filmi Gaane",
-    "type": "youtube",
-    "videoId": "6BBFHGesTM4"
-  },
-  {
-    "name": "Aankhon Mein Base Ho Tum",
-    "artist": "Shemaroo Filmi Gaane",
-    "type": "youtube",
-    "videoId": "h6xpqJT74BU"
-  },
-  {
-    "name": "Dheere Dheere Se Meri Zindagi Mein Aana Full  Song",
-    "artist": "T-Series Bollywood Classics",
-    "type": "youtube",
-    "videoId": "pKsD2GiQhOo"
-  },
-  {
-    "name": "Tumsa Koi Pyaara",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "3NWMK2MRqIk"
-  },
-  {
-    "name": "Kabhi Haan Kabhi Naa",
-    "artist": "Ae Kash Ke Hum Full",
-    "type": "youtube",
-    "videoId": "Jtg2zyS_y_c"
-  },
-  {
-    "name": "Aaja Mahiya",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "I-m4cX22UlQ"
-  },
-  {
-    "name": "Tera Rang Balle Balle",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "b7QS4Amwj7g"
-  },
-  {
-    "name": "Kaise Mukhde Se",
-    "artist": "Red Chillies Entertainment",
-    "type": "youtube",
-    "videoId": "JMrGAL13EsE"
-  },
-  {
-    "name": "Aaye Ho Meri Zindagi Mein",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "r7cUMWxS6Xo"
-  },
-  {
-    "name": "Urvashi Urvashi",
-    "artist": "Ishtar Music",
-    "type": "youtube",
-    "videoId": "dkedupX73xs"
-  },
-  {
-    "name": "Dil Ka Aalam",
-    "artist": "T-Series",
-    "type": "youtube",
-    "videoId": "BaAoZA0fup0"
-  },
-  {
-    "name": "Dil Deewana",
-    "artist": "Rajshri",
-    "type": "youtube",
-    "videoId": "32tNhs2Vk8U"
-  },
-  {
-    "name": "90s Romantic Song",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "mnOs6GTZwhA"
-  },
-  {
-    "name": "Tum Bin Jiya Jaye Kaise  Song",
-    "artist": "T-Series Bollywood Classics",
-    "type": "youtube",
-    "videoId": "gXttYbp6MpI"
-  },
-  {
-    "name": "Ho Nahin Sakta Full  Song",
-    "artist": "T-Series Bollywood Classics",
-    "type": "youtube",
-    "videoId": "0vXTVXM6HEE"
-  },
-  {
-    "name": "Main Toh Raste Se Ja Raha Tha",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "I5_BhsgR9G8"
-  },
-  {
-    "name": "Husn Hai Suhana",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "jE1CavSI5TQ"
-  },
-  {
-    "name": "Chamma Chamma",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "aMcBxxAARBM"
-  },
-  {
-    "name": "Main Duniya Bhula Doonga",
-    "artist": "T-Series",
-    "type": "youtube",
-    "videoId": "kGmEwa9HC2w"
-  },
-  {
-    "name": "Aa Jaana Aa jaana",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "rzjOLgb2U1U"
-  },
-  {
-    "name": "All Time Hit Indian Song From Aashiqui",
-    "artist": "Pop Chartbusters",
-    "type": "youtube",
-    "videoId": "6CzGgybEC10"
-  },
-  {
-    "name": "K.S. Chithra",
-    "artist": "Piya Basanti",
-    "type": "youtube",
-    "videoId": "XFT2niDEy28"
-  },
-  {
-    "name": "Chal Pyar Karegi",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "wjmoMhMZqWs"
-  },
-  {
-    "name": "Govinda, Chunky Pandey, Rageshwari, Aankhen Song",
-    "artist": "Ultra Bollywood",
-    "type": "youtube",
-    "videoId": "HE5zJ2uU5Q0"
-  },
-  {
-    "name": "Dil To Pagal Hai Song",
-    "artist": "YRF Music",
-    "type": "youtube",
-    "videoId": "UsU1ny7dgeU"
-  },
-  {
-    "name": "Pucho Zara Pucho",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "E4HtYArLiwc"
-  },
-  {
-    "name": "O Bijuria Sun",
-    "artist": "Red Chillies Entertainment",
-    "type": "youtube",
-    "videoId": "RB6HUrjlt6Y"
-  },
-  {
-    "name": "Duniya Mein Aaye",
-    "artist": "Shemaroo Filmi Gaane",
-    "type": "youtube",
-    "videoId": "UOTem2lJjSk"
-  },
-  {
-    "name": "Tan Tana Tan Tan Taara",
-    "artist": "Shemaroo Filmi Gaane",
-    "type": "youtube",
-    "videoId": "qeOfhT44XWg"
-  },
-  {
-    "name": "Kali Teri Choti Hai Paranda Tera Laal Ni",
-    "artist": "T-Series Bollywood Classics",
-    "type": "youtube",
-    "videoId": "uDNSYOAQFZQ"
-  },
-  {
-    "name": "Saajan",
-    "artist": "thebollysongs8",
-    "type": "youtube",
-    "videoId": "7aCCgacmzss"
-  },
-  {
-    "name": "Full Song: Pehli Pehli Baar Jab | Jab Pyaar Kisise Hota Hai | Salman Khan | Kumar Sanu | 90s Song",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "KbXBxdmz_OY"
-  },
-  {
-    "name": "Raja Ko Rani Se Pyar Ho Gaya  Song",
-    "artist": "Venus Movies",
-    "type": "youtube",
-    "videoId": "t5JSLRB9ZAU"
-  },
-  {
-    "name": "Indian Hit Song - HD",
-    "artist": "DuniyaMatlabDiOYaar",
-    "type": "youtube",
-    "videoId": "rtm0WkELv5A"
-  },
-  {
-    "name": "\"O O Jaane Jaana\" Full  Song",
-    "artist": "T-Series Bollywood Classics",
-    "type": "youtube",
-    "videoId": "nX_34QEVHSk"
-  },
-  {
-    "name": "- Dance Masti",
-    "artist": "Dil Kya Kare",
-    "type": "youtube",
-    "videoId": "jtP1JKdgEik"
-  },
-  {
-    "name": "Jo Haal Dil Ka",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "Y9OnEE7FAcc"
-  },
-  {
-    "name": "Vídeo Song",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "05o4kCUY2Ys"
-  },
-  {
-    "name": "Ole Ole",
-    "artist": "YRF Music",
-    "type": "youtube",
-    "videoId": "AMEg79OgK8M"
-  },
-  {
-    "name": "Galyan Sakli Sonyachi Full",
-    "artist": "T-Series",
-    "type": "youtube",
-    "videoId": "KGdtqG1vlvE"
-  },
-  {
-    "name": "Tujhe Dekha Toh Song",
-    "artist": "YRF Music",
-    "type": "youtube",
-    "videoId": "r7NVIwO8_pI"
-  },
-  {
-    "name": "Chaaha Toh Bahut Na Chahe Tujhe",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "00V7IokvbTA"
-  },
-  {
-    "name": "Are Re Are - Full Song | Dil To Pagal Hai | Shah Rukh Khan | Madhuri Dixit | Lata | Udit Narayan",
-    "artist": "Are Re Are",
-    "type": "youtube",
-    "videoId": "T3K_Fjrh9Uw"
-  },
-  {
-    "name": "O Lal Dupatte Wali",
-    "artist": "Gaane Naye Purane",
-    "type": "youtube",
-    "videoId": "i4YqFTIjA5E"
-  },
-  {
-    "name": "Ae Mere Humsafar Full  Song",
-    "artist": "Venus Movies",
-    "type": "youtube",
-    "videoId": "94GwgDYpqbw"
-  },
-  {
-    "name": "Song",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "3wGPjDTqJxI"
-  },
-  {
-    "name": "Ishq",
-    "artist": "Dekho Dekho Jaanam Full",
-    "type": "youtube",
-    "videoId": "OcD9cEPlW_M"
-  },
-  {
-    "name": "Mere Khwabon Mein - Full Song | Dilwale Dulhania Le Jayenge | Shah Rukh Khan | Kajol | DDLJ",
-    "artist": "Mere Khwabon Mein",
-    "type": "youtube",
-    "videoId": "Y9JvS2TmSvA"
-  },
-  {
-    "name": "Chhupana Bhi Nahin Aata Full  Song",
-    "artist": "Venus Movies",
-    "type": "youtube",
-    "videoId": "fg9G1dacXjk"
-  },
-  {
-    "name": "Baazigar O Baazigar Full  Song",
-    "artist": "Venus Movies",
-    "type": "youtube",
-    "videoId": "dPElPtPAz7Y"
-  },
-  {
-    "name": "Hum To Dil Se Hare",
-    "artist": "UdhasAankhen",
-    "type": "youtube",
-    "videoId": "DP0vT9bOERU"
-  },
-  {
-    "name": "Song",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "vov0HvFN41M"
-  },
-  {
-    "name": "Chand Tare Tod Full  Song",
-    "artist": "Ishtar Music",
-    "type": "youtube",
-    "videoId": "DIAcdeG70IE"
-  },
-  {
-    "name": "Song",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "OlW5gAKmOOU"
-  },
-  {
-    "name": "Andekhi Anjaani",
-    "artist": "YRF Music",
-    "type": "youtube",
-    "videoId": "RtIXN-KXh_o"
-  },
-  {
-    "name": "Is Tarah Aashiqui Ka",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "T7IZuj5fvYM"
-  },
-  {
-    "name": "Hum Hai Rahi Pyaar Ke - Aamir Khan, Juhi Chawla",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "gydQicNmT4o"
-  },
-  {
-    "name": "Woh Ladki Jo Full  Song",
-    "artist": "Venus Movies",
-    "type": "youtube",
-    "videoId": "_ChywBU14yE"
-  },
-  {
-    "name": "Chain Aap Ko  Full  Song",
-    "artist": "Ishtar Music",
-    "type": "youtube",
-    "videoId": "ymi0zEaLZeI"
-  },
-  {
-    "name": "Tamma Tamma from THANEDAAR Enhanced  .mpg",
-    "artist": "ARAJPUT1000",
-    "type": "youtube",
-    "videoId": "AOzeAjJA614"
-  },
-  {
-    "name": "Tu Meri Zindagi Hai",
-    "artist": "T-Series",
-    "type": "youtube",
-    "videoId": "Jt9LM0NSPCc"
-  },
-  {
-    "name": "Rehna Hai Tere Dil Mein",
-    "artist": "Silentkiller06",
-    "type": "youtube",
-    "videoId": "ZbC91dUEg_c"
-  },
-  {
-    "name": "90's Love Song",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "tQGZL2Y8-kU"
-  },
-  {
-    "name": "Jaane Dil Mein - Full Song | Mujhse Dosti Karoge | Hrithik Roshan, Rani, Lata Mangeshkar, Sonu Nigam",
-    "artist": "Jaane Dil Mein",
-    "type": "youtube",
-    "videoId": "17QpA1pJVBU"
-  },
-  {
-    "name": "Paree Hoon Main",
-    "artist": "Michael Hathi",
-    "type": "youtube",
-    "videoId": "wzB32ZScPS0"
-  },
-  {
-    "name": "Aati Kya Khandala",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "C5kihXiyHfE"
-  },
-  {
-    "name": "Chunnari Chunnari",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "QDlTrLkdeng"
-  },
-  {
-    "name": "Jaadu Teri Nazar Song",
-    "artist": "YRF Music",
-    "type": "youtube",
-    "videoId": "KqKY43E61Gs"
-  },
-  {
-    "name": "\"Jab Pyaar kiya Toh Darna Kiya\"  Salman Khan",
-    "artist": "T-Series",
-    "type": "youtube",
-    "videoId": "AYxpSOZ_zsk"
-  },
-  {
-    "name": "1942 A Love Story",
-    "artist": "Vidhu Vinod Chopra Films",
-    "type": "youtube",
-    "videoId": "V0FsE0b7Z-s"
-  },
-  {
-    "name": "Zara Sa Jhoom Loon Main",
-    "artist": "YRF Music",
-    "type": "youtube",
-    "videoId": "UJEfS2UA9hw"
-  },
-  {
-    "name": "Hothon Pe Bas",
-    "artist": "YRF Music",
-    "type": "youtube",
-    "videoId": "lHXX9bgSTAI"
-  },
-  {
-    "name": "Le Gayi",
-    "artist": "YRF Music",
-    "type": "youtube",
-    "videoId": "eebj-D15-XI"
-  },
-  {
-    "name": "Kabhi Haan Kabhi Naa",
-    "artist": "Aana Mere Pyar Ko Full",
-    "type": "youtube",
-    "videoId": "ey12lXsUu_8"
-  },
-  {
-    "name": "Ziddi",
-    "artist": "TakNama تک نما",
-    "type": "youtube",
-    "videoId": "5DT-Y04LNng"
-  },
-  {
-    "name": "Govinda, Karishma, Raja Babu Song",
-    "artist": "Ultra Bollywood",
-    "type": "youtube",
-    "videoId": "kyUusf0pOLc"
-  },
-  {
-    "name": "Waada Raha Sanam Full  Song",
-    "artist": "Venus Movies",
-    "type": "youtube",
-    "videoId": "t8Lbc_WvUb8"
-  },
-  {
-    "name": "Mohabbat Ho Gayee Full  Song",
-    "artist": "Venus Movies",
-    "type": "youtube",
-    "videoId": "-9zIwMqavZo"
-  },
-  {
-    "name": "Ruk Ja O Dil Deewane - Full Song| Dilwale Dulhania Le Jayenge | Shah Rukh Khan, Kajol | Udit Narayan",
-    "artist": "Ruk Ja O Dil Deewane",
-    "type": "youtube",
-    "videoId": "YJtkxLJeWWA"
-  },
-  {
-    "name": "HD",
-    "artist": "Anup Rajwar",
-    "type": "youtube",
-    "videoId": "mqVliUsBo0M"
-  },
-  {
-    "name": "English Babu Desi Mem",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "_MzY889OzMI"
-  },
-  {
-    "name": "Jab pyar kiya to darna kya  .Salman khan & Kajol super hit song",
-    "artist": "MrSampurna84",
-    "type": "youtube",
-    "videoId": "nMHxHq2zl1s"
-  },
-  {
-    "name": "Mile Tum Se Bichhad Ke Hum Full  Song",
-    "artist": "Ishtar Music",
-    "type": "youtube",
-    "videoId": "x1b2Vw1d-7A"
-  },
-  {
-    "name": "Rudaali",
-    "artist": "Bharat Bhakti",
-    "type": "youtube",
-    "videoId": "Jw3suYqMfbI"
-  },
-  {
-    "name": "Is Tarah Aashiqui Ka",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "T4SPHD5er0M"
-  },
-  {
-    "name": "Kachche Dhaage: Ek Jawani Teri hd Song",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "IIRpnDhwVcU"
-  },
-  {
-    "name": "Bahon Ke Darmiyan With English Subtitle *HD*",
-    "artist": "Ali Qureshi",
-    "type": "youtube",
-    "videoId": "mzIhz9DK4vg"
-  },
-  {
-    "name": "Dekho Zara Dekho",
-    "artist": "YRF Music",
-    "type": "youtube",
-    "videoId": "f9amXuglkXs"
-  },
-  {
-    "name": "Raja Babu - Govinda, Karisma Kapoor",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "sdlOZxmOpBM"
-  },
-  {
-    "name": "Do Baatein Ho Sakti Hai Sanam Tere Inkaar Ki",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "bZeQoyUzxro"
-  },
-  {
-    "name": "Pardesi Pardesi Jana Nahin",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "ngh4_E4QDm4"
-  },
-  {
-    "name": "Hum Sab Chor Hain  Kumar Sanu & Alka Yagnik",
-    "artist": "TakNama تک نما",
-    "type": "youtube",
-    "videoId": "3ymsKtDYWzU"
-  },
-  {
-    "name": "Chehra Kya Dekhte Ho Full  Song",
-    "artist": "Ishtar Music",
-    "type": "youtube",
-    "videoId": "PJgT6vWUmKw"
-  },
-  {
-    "name": "Pyar Kiya To Darna Kya  BluRay HD 1080p",
-    "artist": "Farilla",
-    "type": "youtube",
-    "videoId": "6UI1zEQltec"
-  },
-  {
-    "name": "Khamoshiyan Gungunane Lagi / German Subtitle /",
-    "artist": "One 2 Ka 4",
-    "type": "youtube",
-    "videoId": "EULA9keCjUE"
-  },
-  {
-    "name": "Kabhi Haan Kabhi Naa",
-    "artist": "Sachi Yeh Kahani Hai Best Song",
-    "type": "youtube",
-    "videoId": "MXpO-ytXc4k"
-  },
-  {
-    "name": "Main Deewana Hoon - Full Song HD | Yeh Dillagi | Akshay Kumar | Saif Ali Khan | Kajol | Pankaj Udhas",
-    "artist": "Main Deewana Hoon",
-    "type": "youtube",
-    "videoId": "anCtRO3uZ2I"
-  },
-  {
-    "name": "Koyla - Shahrukh Khan & Madhuri Dixit",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "KF8TE2X6l8Q"
-  },
-  {
-    "name": "Deewana Dil Deewana",
-    "artist": "SonyMusicIndiaVEVO",
-    "type": "youtube",
-    "videoId": "cGQdmP-BxQA"
-  },
-  {
-    "name": "Mohra - Pankaj Udhas & Sadhana Sargam",
-    "artist": "TakNama تک نما",
-    "type": "youtube",
-    "videoId": "jQF6kPU9P5c"
-  },
-  {
-    "name": "Vijaypath - Alka Yagnik & Kumar Sanu",
-    "artist": "TakNama تک نما",
-    "type": "youtube",
-    "videoId": "PrS1t9fcYTc"
-  },
-  {
-    "name": "Koyla - Shahrukh Khan & Madhuri Dixit",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "kRL8jon2CTM"
-  },
-  {
-    "name": "Parinda",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "hkqVdyFb2mg"
-  },
-  {
-    "name": "Koyla - Shahrukh Khan & Madhuri Dixit",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "yjjIJYOLZOw"
-  },
-  {
-    "name": "Kya kehna eng sub",
-    "artist": "rishinidesilva",
-    "type": "youtube",
-    "videoId": "l1buo7tkw2M"
-  },
-  {
-    "name": "Ho Gaya Hai Tujhko",
-    "artist": "YRF",
-    "type": "youtube",
-    "videoId": "pxl0rQ6TeXI"
-  },
-  {
-    "name": "Tujhe Dekha Toh Song",
-    "artist": "YRF",
-    "type": "youtube",
-    "videoId": "cNV5hLSa9H8"
-  },
-  {
-    "name": "Title Track",
-    "artist": "Kuch Kuch Hota Hai",
-    "type": "youtube",
-    "videoId": "S9DsCP9Th7Y"
-  },
-  {
-    "name": "Humko Humise Chura Lo Song",
-    "artist": "YRF",
-    "type": "youtube",
-    "videoId": "zWPsjhBaRb0"
-  },
-  {
-    "name": "Tujh Mein Rab Dikhta Hai Song",
-    "artist": "YRF",
-    "type": "youtube",
-    "videoId": "qoq8B8ThgEM"
-  },
-  {
-    "name": "Chand Sifarish",
-    "artist": "YRF",
-    "type": "youtube",
-    "videoId": "zWEOx7TSM6I"
-  },
-  {
-    "name": "Aye Mere Humsafar",
-    "artist": "T-Series Bollywood Classics",
-    "type": "youtube",
-    "videoId": "sWqjZpBtcxc"
-  },
-  {
-    "name": "Gazab Ka Hai Din",
-    "artist": "T-Series Bollywood Classics",
-    "type": "youtube",
-    "videoId": "HgYiNVNsHwE"
-  },
-  {
-    "name": "Jaadu Teri Nazar Song",
-    "artist": "YRF",
-    "type": "youtube",
-    "videoId": "n_oP9Onj0r0"
-  },
-  {
-    "name": "Full",
-    "artist": "Kal Ho Naa Ho",
-    "type": "youtube",
-    "videoId": "g0eO74UmRBs"
-  },
-  {
-    "name": "Hum Aapke Hain Koun - Lata Mangeshkar & S. P. Balasubramaniam's Hit Song",
-    "artist": "Bollywood Classics",
-    "type": "youtube",
-    "videoId": "tEKi6vnPApI"
-  },
-  {
-    "name": "Woh Ladki Bahut Yaad Aati Hai   Qayamat 2003 Full  Song  HD",
-    "artist": "SongsWorld",
-    "type": "youtube",
-    "videoId": "PLZUkp7rckA"
-  },
-  {
-    "name": "Dheere Dheere Aap Mere",
-    "artist": "Shemaroo Filmi Gaane",
-    "type": "youtube",
-    "videoId": "z_MxcS9Ags4"
-  },
-  {
-    "name": "Pyaar To Hona Hi Tha",
-    "artist": "Pyaar To Hona Hi Tha Full",
-    "type": "youtube",
-    "videoId": "Q6aOWA08g-Y"
-  },
-  {
-    "name": "Dholna",
-    "artist": "YRF",
-    "type": "youtube",
-    "videoId": "bWNkpJdkOj4"
-  },
-  {
-    "name": "HD",
-    "artist": "Main Koi Aisa Geet Gaoon",
-    "type": "youtube",
-    "videoId": "vzlXfZlH5dk"
-  },
-  {
-    "name": "Badi mushkil hai songs Anjam movie",
-    "artist": "humara bollywood",
-    "type": "youtube",
-    "videoId": "DPZSmV9JVBw"
-  },
-  {
-    "name": "KANK",
-    "artist": "Tumhi Dekho Naa Full",
-    "type": "youtube",
-    "videoId": "DULDIS2qlCU"
-  },
-  {
-    "name": "Dil Hai Ki Manta Nahin Full  Song",
-    "artist": "T-Series Bollywood Classics",
-    "type": "youtube",
-    "videoId": "g3ddCx2Uawo"
-  },
-  {
-    "name": "Tu Mere Saamne Song",
-    "artist": "YRF",
-    "type": "youtube",
-    "videoId": "0-7RHSbyZGw"
-  },
-  {
-    "name": "Dil Kehta Hai",
-    "artist": "Ishtar Music",
-    "type": "youtube",
-    "videoId": "PqiddY3o3aY"
-  },
-  {
-    "name": "HD",
-    "artist": "Chaand Tare",
-    "type": "youtube",
-    "videoId": "N3QzaUwml5w"
-  },
-  {
-    "name": "4K",
-    "artist": "Raja Ko Rani Se",
-    "type": "youtube",
-    "videoId": "3C4sUKbEKrw"
-  },
-  {
-    "name": "4K",
-    "artist": "Waada Raha Sanam",
-    "type": "youtube",
-    "videoId": "9b0iydtDZLU"
-  },
-  {
-    "name": "Kuch Kuch Hota Hai",
-    "artist": "Koi Mil Gaya Lyric",
-    "type": "youtube",
-    "videoId": "ni0VGhJRUOQ"
-  },
-  {
-    "name": "Aankhein Khuli Song",
-    "artist": "YRF",
-    "type": "youtube",
-    "videoId": "eM8Mjuq4MwQ"
-  },
-  {
-    "name": "Badi Mushkil Hai",
-    "artist": "Red Chillies Entertainment",
-    "type": "youtube",
-    "videoId": "2Chj7DUhv8Y"
-  },
-  {
-    "name": "Tauba Tumhare Ishare",
-    "artist": "Abhijeet Unplugged",
-    "type": "youtube",
-    "videoId": "2Bf-4z7G68o"
-  },
-  {
-    "name": "Shahrukh Khan, Rani , Preity , Abhishek",
-    "artist": "Kabhi Alvida Naa Kehna Full",
-    "type": "youtube",
-    "videoId": "O8fIwHfZz2E"
-  },
-  {
-    "name": "Shah Rukh Khan",
-    "artist": "Gerua",
-    "type": "youtube",
-    "videoId": "AEIVhBS6baE"
-  },
-  {
-    "name": "Haule Haule - Full Song | Rab Ne Bana Di Jodi | Shah Rukh Khan | Anushka Sharma | Sukhwinder Singh",
-    "artist": "YRF",
-    "type": "youtube",
-    "videoId": "XgdY_s1LsZc"
-  },
-  {
-    "name": "Main Hoon Na Title Track",
-    "artist": "T-Series Bollywood Classics",
-    "type": "youtube",
-    "videoId": "0L0QinW_A70"
-  },
-  {
-    "name": "Mere Mehboob Mein Full",
-    "artist": "Adayein Bhi Hain",
-    "type": "youtube",
-    "videoId": "PPrtsDLg69I"
-  },
-  {
-    "name": "Pehla Pehla Pyar Hai",
-    "artist": "Rajshri",
-    "type": "youtube",
-    "videoId": "gIODEFkvjTA"
-  },
-  {
-    "name": "Pehli Pehli Baar Mohabbat Ki Hai Full  Song",
-    "artist": "T-Series Bollywood Classics",
-    "type": "youtube",
-    "videoId": "cBGDDBHN22U"
-  },
-  {
-    "name": "Nazrein Mili Dil Dhadka",
-    "artist": "Shemaroo Filmi Gaane",
-    "type": "youtube",
-    "videoId": "Q-0NNaJ4SCc"
-  },
-  {
-    "name": "Saanson Ki Jarurat Hai Jaise",
-    "artist": "T-Series Bollywood Classics",
-    "type": "youtube",
-    "videoId": "YCuhzjK11iA"
-  },
-  {
-    "name": "\"Mujhe Neend Na Aaye\" Full",
-    "artist": "T-Series Bollywood Classics",
-    "type": "youtube",
-    "videoId": "rrZcR4GzWq8"
-  },
-  {
-    "name": "Song",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "gEElhAFIg28"
-  },
-  {
-    "name": "Dil Laga Liya Maine Tumse Pyaar Karke",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "6qBdQzPnw4E"
-  },
-  {
-    "name": "क्या",
-    "artist": "Shemaroo Filmi Gaane",
-    "type": "youtube",
-    "videoId": "_dUAVM5ERXA"
-  },
-  {
-    "name": "HD  SONG",
-    "artist": "Dil Ne Yeh Kaha Hain Dil Se",
-    "type": "youtube",
-    "videoId": "MFommhp4XVk"
-  },
-  {
-    "name": "Aap Ke Pyaar Mein Hum Savarne Lage",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "FNpV3DQWUf8"
-  },
-  {
-    "name": "Full",
-    "artist": "Ladki Badi Anjani Hai",
-    "type": "youtube",
-    "videoId": "WlWlGlvN4L4"
-  },
-  {
-    "name": "Jaane Dil Mein - Full Song | Mujhse Dosti Karoge | Hrithik Roshan, Rani, Lata Mangeshkar, Sonu Nigam",
-    "artist": "YRF",
-    "type": "youtube",
-    "videoId": "EdRYy38C_gE"
-  },
-  {
-    "name": "Mere Khwabon Mein",
-    "artist": "YRF",
-    "type": "youtube",
-    "videoId": "s1LozokQjIg"
-  },
-  {
-    "name": "Husn Hai Suhana  Govinda & Karisma Kapoor",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "bZnyTYzYGMM"
-  },
-  {
-    "name": "Andekhi Anjaani",
-    "artist": "YRF",
-    "type": "youtube",
-    "videoId": "bBvlfHU4nDI"
-  },
-  {
-    "name": "Paas Woh Aane Lage",
-    "artist": "Ishtar Music",
-    "type": "youtube",
-    "videoId": "w89fWEelFns"
-  },
-  {
-    "name": "Soldier Soldier",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "qwJxDcuW538"
-  },
-  {
-    "name": "Saathiya",
-    "artist": "YRF",
-    "type": "youtube",
-    "videoId": "eMA6GHTQ4WA"
-  },
-  {
-    "name": "Wada Raha Pyar Se Pyar Ka  Khakee",
-    "artist": "T-Series",
-    "type": "youtube",
-    "videoId": "NM_PAszSlw0"
-  },
-  {
-    "name": "SONG",
-    "artist": "Hum To Dil Se Haare",
-    "type": "youtube",
-    "videoId": "X7YF-D0CQ4k"
-  },
-  {
-    "name": "Meri Zindagi Mein Ajnabee Ka",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "yr4tT3OqOuo"
-  },
-  {
-    "name": "Dil Laga Liya Maine Tumse Pyaar Karke",
-    "artist": "Bollywood Dhamaka",
-    "type": "youtube",
-    "videoId": "EoommnZLEBM"
-  },
-  {
-    "name": "4K  Song",
-    "artist": "Pehli Baar Dil Yun",
-    "type": "youtube",
-    "videoId": "fv9UiPVO4pk"
-  },
-  {
-    "name": "4K",
-    "artist": "Abhi To Mohabbat Ka",
-    "type": "youtube",
-    "videoId": "sBFKHnNp-8c"
-  },
-  {
-    "name": "Deewana Main Tera Deewana",
-    "artist": "Red Chillies Entertainment",
-    "type": "youtube",
-    "videoId": "SjGiu3HRCkI"
-  },
-  {
-    "name": "Full  HD",
-    "artist": "Vidhu Vinod Chopra Films",
-    "type": "youtube",
-    "videoId": "fTauOK8J-U8"
-  },
-  {
-    "name": "बाज़ीगर मैं बाज़ीगर, दिलवालों का मैं दिलबर",
-    "artist": "Ishtar Music",
-    "type": "youtube",
-    "videoId": "PUO7_Gi6ipg"
-  },
-  {
-    "name": "Mere Khwabon Mein",
-    "artist": "YRF",
-    "type": "youtube",
-    "videoId": "Zxgvob1Ew0c"
-  },
-  {
-    "name": "HD",
-    "artist": "Ek Din Aap",
-    "type": "youtube",
-    "videoId": "90Q5bMN6u2w"
-  },
-  {
-    "name": "Suno Na Suno Na Full HD  Chalte Chalte",
-    "artist": "T-Series",
-    "type": "youtube",
-    "videoId": "9hrV2IFsx5s"
-  },
-  {
-    "name": "Aao Naa",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "b4iOwqZCmv4"
-  },
-  {
-    "name": "ये हसीं वादियां ये खुला आसमां",
-    "artist": "Ultra Bollywood",
-    "type": "youtube",
-    "videoId": "CuhoU0pmip8"
-  },
-  {
-    "name": "Dil Hai Chhota Sa 4K  Song Hindi",
-    "artist": "SuperHit Gaane",
-    "type": "youtube",
-    "videoId": "Wk9GL7zvU24"
-  },
-  {
-    "name": "Ae Kash Ke Hum",
-    "artist": "Red Chillies Entertainment",
-    "type": "youtube",
-    "videoId": "zIz1RTZxnvY"
-  },
-  {
-    "name": "K3G",
-    "artist": "Suraj Hua Maddham Full",
-    "type": "youtube",
-    "videoId": "L0zKs8i7Nc8"
-  },
-  {
-    "name": "Dil To Pagal Hai Song",
-    "artist": "YRF",
-    "type": "youtube",
-    "videoId": "lZ2PhyBF3GQ"
-  },
-  {
-    "name": "Ishq",
-    "artist": "Ishq Hua Kaise Hua Full",
-    "type": "youtube",
-    "videoId": "3B9R2pyh7Os"
-  },
-  {
-    "name": "Chudi Baji Hai Million Jhankar   HD   Yes Boss   Udit Naryan & Alka Yagnik By Danish",
-    "artist": "SongsWorld",
-    "type": "youtube",
-    "videoId": "l3jSnTvlDO8"
-  },
-  {
-    "name": "Deewana Dil Deewana",
-    "artist": "Red Chillies Entertainment",
-    "type": "youtube",
-    "videoId": "4bIQNbHofs0"
-  },
-  {
-    "name": "Sambhala Hai Maine",
-    "artist": "90's Gaane",
-    "type": "youtube",
-    "videoId": "qgDTT2E3lSQ"
-  },
-  {
-    "name": "Aao Naa",
-    "artist": "90's Hits",
-    "type": "youtube",
-    "videoId": "G_x-UJNEmEU"
-  },
-  {
-    "name": "Tu Shayar Hai Main Teri Shayari ) Madhuri Dixit, Sanjay Dutt",
-    "artist": "YOUR SAURABH GUPTA ",
-    "type": "youtube",
-    "videoId": "xa6yDnMMbvI"
-  },
-  {
-    "name": "Mehndi Laga Ke Rakhna Song",
-    "artist": "YRF",
-    "type": "youtube",
-    "videoId": "-bNwqXvMuB8"
-  },
-  {
-    "name": "Ruk Ja O Dil Deewane - Full Song| Dilwale Dulhania Le Jayenge | Shah Rukh Khan, Kajol | Udit Narayan",
-    "artist": "YRF",
-    "type": "youtube",
-    "videoId": "jBpRItrod-Q"
-  },
-  {
-    "name": "K3G",
-    "artist": "Bole Chudiyan Full",
-    "type": "youtube",
-    "videoId": "IBvg3WeqP1U"
-  },
-  {
-    "name": ": Chalte Chalte Title Song",
-    "artist": "T-Series Bollywood Classics",
-    "type": "youtube",
-    "videoId": "rkOakcMqJ-8"
-  },
-  {
-    "name": "Jadoo Hai Tera",
-    "artist": "Bollywood Classic Hits",
-    "type": "youtube",
-    "videoId": "-GaxeyNfSZo"
-  },
-  {
-    "name": "Title Track",
-    "artist": "Kabhi Khushi Kabhie Gham Full",
-    "type": "youtube",
-    "videoId": "2wn3RHVpfxE"
-  },
-  {
-    "name": "K3G",
-    "artist": "Yeh Ladka Hai Allah Full",
-    "type": "youtube",
-    "videoId": "BE8_rNJOQ-0"
-  },
-  {
-    "name": "Kyon Ki ...It'S Fate",
-    "artist": "Kyon Ki Itna Pyar  Film",
-    "type": "youtube",
-    "videoId": "vnCIjfkPooo"
-  },
-  {
-    "name": "Full",
-    "artist": "Mitwa",
-    "type": "youtube",
-    "videoId": "ru_5PA8cwkE"
-  },
-  {
-    "name": "Bol Na Halke",
-    "artist": "jimaddr",
-    "type": "youtube",
-    "videoId": "neMj84LpIb8"
-  },
-  {
-    "name": "Mujhse Dosti Karoge",
-    "artist": "bollysongsengsub",
-    "type": "youtube",
-    "videoId": "e0MuztEwL2Q"
-  },
-  {
-    "name": "Chaand Sitare",
-    "artist": "Kaho Naa Pyaar Hai",
-    "type": "youtube",
-    "videoId": "rmkSFmFENZE"
-  },
-  {
-    "name": "My Dil Goes Mmmm",
-    "artist": "YRF Music",
-    "type": "youtube",
-    "videoId": "PgtXUe_942k"
-  },
-  {
-    "name": "Ladki Kyon",
-    "artist": "YRF Music",
-    "type": "youtube",
-    "videoId": "-bTbByItdYA"
-  },
-  {
-    "name": "Are Re Are Song",
-    "artist": "YRF",
-    "type": "youtube",
-    "videoId": "OEpFiDKqH7E"
-  },
-  {
-    "name": "Pyar Kar Song",
-    "artist": "YRF",
-    "type": "youtube",
-    "videoId": "tvxXAZo1Hlg"
-  },
-  {
-    "name": "Jadoo Hai Tera",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "R9snTOBEWso"
-  },
-  {
-    "name": "Chanda Chamke",
-    "artist": "YRF",
-    "type": "youtube",
-    "videoId": "1JCszwP5tl8"
-  },
-  {
-    "name": "Raah Mein Un Se Mulaakaat Ho Gayi",
-    "artist": "90's Gaane",
-    "type": "youtube",
-    "videoId": "tjKB2viSGrQ"
-  },
-  {
-    "name": "Aati Kya Khandala",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "yIFMTfgJzY0"
-  },
-  {
-    "name": "Chal Chale  Woh Lamhe",
-    "artist": "T-Series",
-    "type": "youtube",
-    "videoId": "QfYzSutYy0M"
-  },
-  {
-    "name": "Do Dil Mil Rahe Hain",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "gmJW33derRY"
-  },
-  {
-    "name": "Gawah Hai Chand Tare with lyrics",
-    "artist": "Saregama Music",
-    "type": "youtube",
-    "videoId": "5m8PFW6enuY"
-  },
-  {
-    "name": "Ek Din Aap",
-    "artist": "The Kumar Sanu Official",
-    "type": "youtube",
-    "videoId": "HHgVlMrkloQ"
-  },
-  {
-    "name": "Tujhe Na Dekhu Toh Chain",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "mmgdG4UvF3Y"
-  },
-  {
-    "name": "Daiya Daiya Daiya Re",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "C5yA0REgx1Q"
-  },
-  {
-    "name": "Kisi Se Tum Pyar Karo",
-    "artist": "Shemaroo Filmi Gaane",
-    "type": "youtube",
-    "videoId": "-lDmXk8pBNI"
-  },
-  {
-    "name": "Run",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "_RBnClD9Pw8"
-  },
-  {
-    "name": "Akhiyaan Milaoon Kabhi",
-    "artist": "Shemaroo Filmi Gaane",
-    "type": "youtube",
-    "videoId": "Ux7WD9FrmWQ"
-  },
-  {
-    "name": "Saanwali Si Ek Ladki - Full Song | Mujhse Dosti Karoge | Hrithik | Kareena | Rani | Uday",
-    "artist": "Saanwali Si Ek Ladki",
-    "type": "youtube",
-    "videoId": "6nPSaUqjtQ4"
-  },
-  {
-    "name": "Mujhse Shaadi Karogi  *BluRay* Music Videos",
-    "artist": "MSKatRahidTv",
-    "type": "youtube",
-    "videoId": "wzwdwOXEEf8"
-  },
-  {
-    "name": "Teri Mohabbat Ne Dil Mein Makaam Kar Diya",
-    "artist": "90's Gaane",
-    "type": "youtube",
-    "videoId": "KpKo0sUZQdE"
-  },
-  {
-    "name": "Aaj Main Upar",
-    "artist": "Kavita Krishnamurthy",
-    "type": "youtube",
-    "videoId": "Q1z6iif3RN4"
-  },
-  {
-    "name": "4K",
-    "artist": "Tune Zindagi Mein",
-    "type": "youtube",
-    "videoId": "a2SByvJ9HwY"
-  },
-  {
-    "name": "Payaliyan Oh Ho Ho Ho",
-    "artist": "90s Hindi Songs",
-    "type": "youtube",
-    "videoId": "5pge7QIC-MI"
-  },
-  {
-    "name": "Full : Har Dil Jo Pyar Karega Title Song",
-    "artist": "T-Series",
-    "type": "youtube",
-    "videoId": "V0jFYD0PirU"
-  },
-  {
-    "name": "Tum Mujhe Itna Pyar",
-    "artist": "The Kumar Sanu Official",
-    "type": "youtube",
-    "videoId": "thTi3zwdTH0"
-  },
-  {
-    "name": "Taaqat   From Saadat",
-    "artist": "Love Muzik",
-    "type": "youtube",
-    "videoId": "21-00eHYw8s"
-  },
-  {
-    "name": "Humko Sirf Tumse Pyar Hai",
-    "artist": "Bollywood Songs",
-    "type": "youtube",
-    "videoId": "t8aOUxUpoeI"
-  },
-  {
-    "name": "Teri Aankhon Ka Andaaz",
-    "artist": "Shemaroo Filmi Gaane",
-    "type": "youtube",
-    "videoId": "ITtfFyQ1OL8"
-  },
-  {
-    "name": "Kasam Khake Kaho",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "ZfZPVSiNasI"
-  },
-  {
-    "name": "Mastana Mausam Hai Rangeen Nazara",
-    "artist": "Bollywood Hits",
-    "type": "youtube",
-    "videoId": "7XI1QMIpHXQ"
-  },
-  {
-    "name": "Nazar Ke Samne",
-    "artist": "T-Series Bollywood Classics",
-    "type": "youtube",
-    "videoId": "A4_KJ8t-dbo"
-  },
-  {
-    "name": ": Mujhse Shaadi Karogi Title Track",
-    "artist": "T-Series Bollywood Classics",
-    "type": "youtube",
-    "videoId": "n7MjuaR7ZlI"
-  },
-  {
-    "name": "Woh Ladki Jo Sabse Alag Hai 4K HD",
-    "artist": "media",
-    "type": "youtube",
-    "videoId": "c1GE59WNaAs"
-  },
-  {
-    "name": "Tauba Tumhare Ishare Full HD Song",
-    "artist": "T-Series",
-    "type": "youtube",
-    "videoId": "yFibazGpBiI"
-  },
-  {
-    "name": "O Jaana Na Jaana",
-    "artist": "Gaane Filmi",
-    "type": "youtube",
-    "videoId": "nfm-WcNKHXA"
-  },
-  {
-    "name": "Aankhon Se Tune Kya Keh Diya",
-    "artist": "90's Hits",
-    "type": "youtube",
-    "videoId": "4GQU2aaOXxM"
-  },
-  {
-    "name": "O Jaana Na Jaana",
-    "artist": "90's Gaane",
-    "type": "youtube",
-    "videoId": "wBw9EPtDLw8"
-  },
-  {
-    "name": "Jaati Hoon Main",
-    "artist": "90's Gaane",
-    "type": "youtube",
-    "videoId": "ro8wx6JtX4Q"
-  },
-  {
-    "name": "HD",
-    "artist": "Hum To Deewane Huye",
-    "type": "youtube",
-    "videoId": "ryxeZdtfo1I"
-  },
-  {
-    "name": ": Hamein Tumse Hua Hai Pyar",
-    "artist": "T-Series Bollywood Classics",
-    "type": "youtube",
-    "videoId": "siw7-MTgE4s"
-  },
-  {
-    "name": "Chalte Chalte",
-    "artist": "YRF",
-    "type": "youtube",
-    "videoId": "kzTWRX9Dhrg"
-  },
-  {
-    "name": "Love Tujhe Love Main",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "wrlhJlCqXjs"
-  },
-  {
-    "name": "Pardesi Pardesi",
-    "artist": "90's Gaane",
-    "type": "youtube",
-    "videoId": "Swlik5Hfu-A"
-  },
-  {
-    "name": "Teri Mohabbat Ne Dil Mein Makaam Kar Diya",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "6nRwVq8XUNA"
-  },
-  {
-    "name": "Koi Na Koi Chahiye Pyar Karne Wala",
-    "artist": "Shemaroo Filmi Gaane",
-    "type": "youtube",
-    "videoId": "0A6WPBsUHHI"
-  },
-  {
-    "name": "Main Yahaan Hoon",
-    "artist": "YRF",
-    "type": "youtube",
-    "videoId": "m6Y8xEfyXTs"
-  },
-  {
-    "name": "Tere Liye Song",
-    "artist": "YRF",
-    "type": "youtube",
-    "videoId": "jo6iAkSoraY"
-  },
-  {
-    "name": ": Main Agar Kahoon",
-    "artist": "T-Series",
-    "type": "youtube",
-    "videoId": "DAYszemgPxc"
-  },
-  {
-    "name": "Song",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "xuFqzI2tJbs"
-  },
-  {
-    "name": "Bholi Bhali Ladki",
-    "artist": "Gaane Filmi",
-    "type": "youtube",
-    "videoId": "j8rFEZpVKR8"
-  },
-  {
-    "name": "Mohabbat Ki Nahi Jati",
-    "artist": "Gaane Filmi",
-    "type": "youtube",
-    "videoId": "rG_ky9Mc_4Q"
-  },
-  {
-    "name": "4K  SONG Aankhon Mein Tum Ho",
-    "artist": "90s Filmy Gaane",
-    "type": "youtube",
-    "videoId": "ZMPLC_yUJo4"
-  },
-  {
-    "name": "Chori Chori Dil Tera",
-    "artist": "Kumar Sanu Hit Songs",
-    "type": "youtube",
-    "videoId": "B8MSjHTo154"
-  },
-  {
-    "name": "Teri Chahat Ke Deewane Hue Hum",
-    "artist": "Back To Golden Era",
-    "type": "youtube",
-    "videoId": "v5euBEMHN2A"
-  },
-  {
-    "name": "Meri Tarah Tum Bhi",
-    "artist": "Bollywood Songs",
-    "type": "youtube",
-    "videoId": "hItLUiUq4xE"
-  },
-  {
-    "name": "Rabb Kare Tujhko Bhi Full",
-    "artist": "T-Series",
-    "type": "youtube",
-    "videoId": "BukHiHrbFpA"
-  },
-  {
-    "name": "Payal Meri Jadu Jagati Hai - Udit Narayan - Alka Yagnik",
-    "artist": "Shemaroo",
-    "type": "youtube",
-    "videoId": "FLD6N-iHPZ8"
-  },
-  {
-    "name": "Dil Deewana Na Jaane",
-    "artist": "T-Series Bollywood Classics",
-    "type": "youtube",
-    "videoId": "amML_UjltQI"
-  },
-  {
-    "name": "Dil Dil Dil Main Tere Pyar Mein",
-    "artist": "NH Hindi Songs",
-    "type": "youtube",
-    "videoId": "6noNiedrsEM"
-  },
-  {
-    "name": "Paayal Meri Jadoo Jagati Hai",
-    "artist": "Shemaroo Romantic Songs",
-    "type": "youtube",
-    "videoId": "rb1ILShxgDc"
-  },
-  {
-    "name": "Khate Hain Hum Kasam - LYRICAL VIDEO | Kumar Sanu & Alka Yagnik | Aatish | 90's Best Romantic Song",
-    "artist": "Khate Hain Hum Kasam",
-    "type": "youtube",
-    "videoId": "uAHSSU5s5es"
-  },
-  {
-    "name": "Ole Ole",
-    "artist": "YRF",
-    "type": "youtube",
-    "videoId": "hcCvSmjHwGY"
-  },
-  {
-    "name": "Paayal Meri Jadoo Jagati Hai",
-    "artist": "Shemaroo Filmi Gaane",
-    "type": "youtube",
-    "videoId": "Rpyn_BiYxKg"
-  },
-  {
-    "name": "Sadak",
-    "artist": "Tumhe Apna Banane Ki Kasam  Film",
-    "type": "youtube",
-    "videoId": "-aMgmlXHoT4"
-  },
-  {
-    "name": "Tu Cheez Badi Hai Mast Mast",
-    "artist": "Shemaroo Filmi Gaane",
-    "type": "youtube",
-    "videoId": "fT4vP4PnLxg"
-  },
-  {
-    "name": "Chand Sitare Phool Aur Khushboo❤️",
-    "artist": "Timeless Tunes",
-    "type": "youtube",
-    "videoId": "QmTawKZoyys"
-  },
-  {
-    "name": "Ruk Ruk Ruk",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "fVhfrX29Rl4"
-  },
-  {
-    "name": "Mehbooba Mehbooba",
-    "artist": "90's Gaane",
-    "type": "youtube",
-    "videoId": "oHi0fb1Mb6o"
-  },
-  {
-    "name": "A Aa E Ee Mera Dil Na Todo",
-    "artist": "Tips Official",
-    "type": "youtube",
-    "videoId": "fdE3R8ojF5w"
-  },
-  {
-    "name": "Woh Lamhe Woh Baatein  Zeher",
-    "artist": "Vishesh Films",
-    "type": "youtube",
-    "videoId": "FLKxnL7KwHw"
+    "videoId": "oEV2TUEyPy4",
+    "cover": "https://i.ytimg.com/vi/oEV2TUEyPy4/hqdefault.jpg"
   }
 ]
